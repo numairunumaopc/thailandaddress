@@ -1,0 +1,6498 @@
+[
+  {
+    "id": 1,
+    "aumphure_id": "1001",
+    "province_id": "10",
+    "name_en": "Khet Phra Nakhon",
+    "name_th": "เขตพระนคร"
+  },
+  {
+    "id": 2,
+    "aumphure_id": "1002",
+    "province_id": "10",
+    "name_en": "Khet Dusit",
+    "name_th": "เขตดุสิต"
+  },
+  {
+    "id": 3,
+    "aumphure_id": "1003",
+    "province_id": "10",
+    "name_en": "Khet Nong Chok",
+    "name_th": "เขตหนองจอก"
+  },
+  {
+    "id": 4,
+    "aumphure_id": "1004",
+    "province_id": "10",
+    "name_en": "Khet Bang Rak",
+    "name_th": "เขตบางรัก"
+  },
+  {
+    "id": 5,
+    "aumphure_id": "1005",
+    "province_id": "10",
+    "name_en": "Khet Bang Khen",
+    "name_th": "เขตบางเขน"
+  },
+  {
+    "id": 6,
+    "aumphure_id": "1006",
+    "province_id": "10",
+    "name_en": "Khet Bang Kapi",
+    "name_th": "เขตบางกะปิ"
+  },
+  {
+    "id": 7,
+    "aumphure_id": "1007",
+    "province_id": "10",
+    "name_en": "Khet Pathum Wan",
+    "name_th": "เขตปทุมวัน"
+  },
+  {
+    "id": 8,
+    "aumphure_id": "1008",
+    "province_id": "10",
+    "name_en": "Khet Pom Prap Sattru Phai",
+    "name_th": "เขตป้อมปราบศัตรูพ่าย"
+  },
+  {
+    "id": 9,
+    "aumphure_id": "1009",
+    "province_id": "10",
+    "name_en": "Khet Phra Khanong",
+    "name_th": "เขตพระโขนง"
+  },
+  {
+    "id": 10,
+    "aumphure_id": "1010",
+    "province_id": "10",
+    "name_en": "Khet Min Buri",
+    "name_th": "เขตมีนบุรี"
+  },
+  {
+    "id": 11,
+    "aumphure_id": "1011",
+    "province_id": "10",
+    "name_en": "Khet Lat Krabang",
+    "name_th": "เขตลาดกระบัง"
+  },
+  {
+    "id": 12,
+    "aumphure_id": "1012",
+    "province_id": "10",
+    "name_en": "Khet Yan Nawa",
+    "name_th": "เขตยานนาวา"
+  },
+  {
+    "id": 13,
+    "aumphure_id": "1013",
+    "province_id": "10",
+    "name_en": "Khet Samphanthawong",
+    "name_th": "เขตสัมพันธวงศ์"
+  },
+  {
+    "id": 14,
+    "aumphure_id": "1014",
+    "province_id": "10",
+    "name_en": "Khet Phaya Thai",
+    "name_th": "เขตพญาไท"
+  },
+  {
+    "id": 15,
+    "aumphure_id": "1015",
+    "province_id": "10",
+    "name_en": "Khet Thon Buri",
+    "name_th": "เขตธนบุรี"
+  },
+  {
+    "id": 16,
+    "aumphure_id": "1016",
+    "province_id": "10",
+    "name_en": "Khet Bangkok Yai",
+    "name_th": "เขตบางกอกใหญ่"
+  },
+  {
+    "id": 17,
+    "aumphure_id": "1017",
+    "province_id": "10",
+    "name_en": "Khet Huai Khwang",
+    "name_th": "เขตห้วยขวาง"
+  },
+  {
+    "id": 18,
+    "aumphure_id": "1018",
+    "province_id": "10",
+    "name_en": "Khet Khlong San",
+    "name_th": "เขตคลองสาน"
+  },
+  {
+    "id": 19,
+    "aumphure_id": "1019",
+    "province_id": "10",
+    "name_en": "Khet Taling Chan",
+    "name_th": "เขตตลิ่งชัน"
+  },
+  {
+    "id": 20,
+    "aumphure_id": "1020",
+    "province_id": "10",
+    "name_en": "Khet Bangkok Noi",
+    "name_th": "เขตบางกอกน้อย"
+  },
+  {
+    "id": 21,
+    "aumphure_id": "1021",
+    "province_id": "10",
+    "name_en": "Khet Bang Khun Thian",
+    "name_th": "เขตบางขุนเทียน"
+  },
+  {
+    "id": 22,
+    "aumphure_id": "1022",
+    "province_id": "10",
+    "name_en": "Khet Phasi Charoen",
+    "name_th": "เขตภาษีเจริญ"
+  },
+  {
+    "id": 23,
+    "aumphure_id": "1023",
+    "province_id": "10",
+    "name_en": "Khet Nong Khaem",
+    "name_th": "เขตหนองแขม"
+  },
+  {
+    "id": 24,
+    "aumphure_id": "1024",
+    "province_id": "10",
+    "name_en": "Khet Rat Burana",
+    "name_th": "เขตราษฎร์บูรณะ"
+  },
+  {
+    "id": 25,
+    "aumphure_id": "1025",
+    "province_id": "10",
+    "name_en": "Khet Bang Phlat",
+    "name_th": "เขตบางพลัด"
+  },
+  {
+    "id": 26,
+    "aumphure_id": "1026",
+    "province_id": "10",
+    "name_en": "Khet Din Daeng",
+    "name_th": "เขตดินแดง"
+  },
+  {
+    "id": 27,
+    "aumphure_id": "1027",
+    "province_id": "10",
+    "name_en": "Khet Bueng Kum",
+    "name_th": "เขตบึงกุ่ม"
+  },
+  {
+    "id": 28,
+    "aumphure_id": "1028",
+    "province_id": "10",
+    "name_en": "Khet Sathon",
+    "name_th": "เขตสาทร"
+  },
+  {
+    "id": 29,
+    "aumphure_id": "1029",
+    "province_id": "10",
+    "name_en": "Khet Bang Sue",
+    "name_th": "เขตบางซื่อ"
+  },
+  {
+    "id": 30,
+    "aumphure_id": "1030",
+    "province_id": "10",
+    "name_en": "Khet Chatuchak",
+    "name_th": "เขตจตุจักร"
+  },
+  {
+    "id": 31,
+    "aumphure_id": "1031",
+    "province_id": "10",
+    "name_en": "Khet Bang Kho Laem",
+    "name_th": "เขตบางคอแหลม"
+  },
+  {
+    "id": 32,
+    "aumphure_id": "1032",
+    "province_id": "10",
+    "name_en": "Khet Prawet",
+    "name_th": "เขตประเวศ"
+  },
+  {
+    "id": 33,
+    "aumphure_id": "1033",
+    "province_id": "10",
+    "name_en": "Khet Khlong Toei",
+    "name_th": "เขตคลองเตย"
+  },
+  {
+    "id": 34,
+    "aumphure_id": "1034",
+    "province_id": "10",
+    "name_en": "Khet Suan Luang",
+    "name_th": "เขตสวนหลวง"
+  },
+  {
+    "id": 35,
+    "aumphure_id": "1035",
+    "province_id": "10",
+    "name_en": "Khet Chom Thong",
+    "name_th": "เขตจอมทอง"
+  },
+  {
+    "id": 36,
+    "aumphure_id": "1036",
+    "province_id": "10",
+    "name_en": "Khet Don Mueang",
+    "name_th": "เขตดอนเมือง"
+  },
+  {
+    "id": 37,
+    "aumphure_id": "1037",
+    "province_id": "10",
+    "name_en": "Khet Ratchathewi",
+    "name_th": "เขตราชเทวี"
+  },
+  {
+    "id": 38,
+    "aumphure_id": "1038",
+    "province_id": "10",
+    "name_en": "Khet Lat Phrao",
+    "name_th": "เขตลาดพร้าว"
+  },
+  {
+    "id": 39,
+    "aumphure_id": "1039",
+    "province_id": "10",
+    "name_en": "Khet Vadhana",
+    "name_th": "เขตวัฒนา"
+  },
+  {
+    "id": 40,
+    "aumphure_id": "1040",
+    "province_id": "10",
+    "name_en": "Khet Bang Khae",
+    "name_th": "เขตบางแค"
+  },
+  {
+    "id": 41,
+    "aumphure_id": "1041",
+    "province_id": "10",
+    "name_en": "Khet Lak Si",
+    "name_th": "เขตหลักสี่"
+  },
+  {
+    "id": 42,
+    "aumphure_id": "1042",
+    "province_id": "10",
+    "name_en": "Khet Sai Mai",
+    "name_th": "เขตสายไหม"
+  },
+  {
+    "id": 43,
+    "aumphure_id": "1043",
+    "province_id": "10",
+    "name_en": "Khet Khan Na Yao",
+    "name_th": "เขตคันนายาว"
+  },
+  {
+    "id": 44,
+    "aumphure_id": "1044",
+    "province_id": "10",
+    "name_en": "Khet Saphan Sung",
+    "name_th": "เขตสะพานสูง"
+  },
+  {
+    "id": 45,
+    "aumphure_id": "1045",
+    "province_id": "10",
+    "name_en": "Khet Wang Thonglang",
+    "name_th": "เขตวังทองหลาง"
+  },
+  {
+    "id": 46,
+    "aumphure_id": "1046",
+    "province_id": "10",
+    "name_en": "Khet Khlong Sam Wa",
+    "name_th": "เขตคลองสามวา"
+  },
+  {
+    "id": 47,
+    "aumphure_id": "1047",
+    "province_id": "10",
+    "name_en": "Khet Bang Na",
+    "name_th": "เขตบางนา"
+  },
+  {
+    "id": 48,
+    "aumphure_id": "1048",
+    "province_id": "10",
+    "name_en": "Khet Thawi Watthana",
+    "name_th": "เขตทวีวัฒนา"
+  },
+  {
+    "id": 49,
+    "aumphure_id": "1049",
+    "province_id": "10",
+    "name_en": "Khet Thung Khru",
+    "name_th": "เขตทุ่งครุ"
+  },
+  {
+    "id": 50,
+    "aumphure_id": "1050",
+    "province_id": "10",
+    "name_en": "Khet Bang Bon",
+    "name_th": "เขตบางบอน"
+  },
+  {
+    "id": 51,
+    "aumphure_id": "1101",
+    "province_id": "11",
+    "name_en": "Amphoe Mueang Samut Prakan",
+    "name_th": "อำเภอเมืองสมุทรปราการ"
+  },
+  {
+    "id": 52,
+    "aumphure_id": "1102",
+    "province_id": "11",
+    "name_en": "Amphoe Bang Bo",
+    "name_th": "อำเภอบางบ่อ"
+  },
+  {
+    "id": 53,
+    "aumphure_id": "1103",
+    "province_id": "11",
+    "name_en": "Amphoe Bang Phli",
+    "name_th": "อำเภอบางพลี"
+  },
+  {
+    "id": 54,
+    "aumphure_id": "1104",
+    "province_id": "11",
+    "name_en": "Amphoe Phra Pradaeng",
+    "name_th": "อำเภอพระประแดง"
+  },
+  {
+    "id": 55,
+    "aumphure_id": "1105",
+    "province_id": "11",
+    "name_en": "Amphoe Phra Samut Chedi",
+    "name_th": "อำเภอพระสมุทรเจดีย์"
+  },
+  {
+    "id": 56,
+    "aumphure_id": "1106",
+    "province_id": "11",
+    "name_en": "Amphoe Bang Sao Thong",
+    "name_th": "อำเภอบางเสาธง"
+  },
+  {
+    "id": 57,
+    "aumphure_id": "1201",
+    "province_id": "12",
+    "name_en": "Amphoe Mueang Nonthaburi",
+    "name_th": "อำเภอเมืองนนทบุรี"
+  },
+  {
+    "id": 58,
+    "aumphure_id": "1202",
+    "province_id": "12",
+    "name_en": "Amphoe Bang Kruai",
+    "name_th": "อำเภอบางกรวย"
+  },
+  {
+    "id": 59,
+    "aumphure_id": "1203",
+    "province_id": "12",
+    "name_en": "Amphoe Bang Yai",
+    "name_th": "อำเภอบางใหญ่"
+  },
+  {
+    "id": 60,
+    "aumphure_id": "1204",
+    "province_id": "12",
+    "name_en": "Amphoe Bang Bua Thong",
+    "name_th": "อำเภอบางบัวทอง"
+  },
+  {
+    "id": 61,
+    "aumphure_id": "1205",
+    "province_id": "12",
+    "name_en": "Amphoe Sai Noi",
+    "name_th": "อำเภอไทรน้อย"
+  },
+  {
+    "id": 62,
+    "aumphure_id": "1206",
+    "province_id": "12",
+    "name_en": "Amphoe Pak Kret",
+    "name_th": "อำเภอปากเกร็ด"
+  },
+  {
+    "id": 63,
+    "aumphure_id": "1301",
+    "province_id": "13",
+    "name_en": "Amphoe Mueang Pathum Thani",
+    "name_th": "อำเภอเมืองปทุมธานี"
+  },
+  {
+    "id": 64,
+    "aumphure_id": "1302",
+    "province_id": "13",
+    "name_en": "Amphoe Khlong Luang",
+    "name_th": "อำเภอคลองหลวง"
+  },
+  {
+    "id": 65,
+    "aumphure_id": "1303",
+    "province_id": "13",
+    "name_en": "Amphoe Thanyaburi",
+    "name_th": "อำเภอธัญบุรี"
+  },
+  {
+    "id": 66,
+    "aumphure_id": "1304",
+    "province_id": "13",
+    "name_en": "Amphoe Nong Suea",
+    "name_th": "อำเภอหนองเสือ"
+  },
+  {
+    "id": 67,
+    "aumphure_id": "1305",
+    "province_id": "13",
+    "name_en": "Amphoe Lat Lum Kaeo",
+    "name_th": "อำเภอลาดหลุมแก้ว"
+  },
+  {
+    "id": 68,
+    "aumphure_id": "1306",
+    "province_id": "13",
+    "name_en": "Amphoe Lam Luk Ka",
+    "name_th": "อำเภอลำลูกกา"
+  },
+  {
+    "id": 69,
+    "aumphure_id": "1307",
+    "province_id": "13",
+    "name_en": "Amphoe Sam Khok",
+    "name_th": "อำเภอสามโคก"
+  },
+  {
+    "id": 70,
+    "aumphure_id": "1401",
+    "province_id": "14",
+    "name_en": "Amphoe Phra Nakhon Si Ayutthaya",
+    "name_th": "อำเภอพระนครศรีอยุธยา"
+  },
+  {
+    "id": 71,
+    "aumphure_id": "1402",
+    "province_id": "14",
+    "name_en": "Amphoe Tha Ruea",
+    "name_th": "อำเภอท่าเรือ"
+  },
+  {
+    "id": 72,
+    "aumphure_id": "1403",
+    "province_id": "14",
+    "name_en": "Amphoe Nakhon Luang",
+    "name_th": "อำเภอนครหลวง"
+  },
+  {
+    "id": 73,
+    "aumphure_id": "1404",
+    "province_id": "14",
+    "name_en": "Amphoe Bang Sai",
+    "name_th": "อำเภอบางไทร"
+  },
+  {
+    "id": 74,
+    "aumphure_id": "1405",
+    "province_id": "14",
+    "name_en": "Amphoe Bang Ban",
+    "name_th": "อำเภอบางบาล"
+  },
+  {
+    "id": 75,
+    "aumphure_id": "1406",
+    "province_id": "14",
+    "name_en": "Amphoe Bang Pa-in",
+    "name_th": "อำเภอบางปะอิน"
+  },
+  {
+    "id": 76,
+    "aumphure_id": "1407",
+    "province_id": "14",
+    "name_en": "Amphoe Bang Pahan",
+    "name_th": "อำเภอบางปะหัน"
+  },
+  {
+    "id": 77,
+    "aumphure_id": "1408",
+    "province_id": "14",
+    "name_en": "Amphoe Phak Hai",
+    "name_th": "อำเภอผักไห่"
+  },
+  {
+    "id": 78,
+    "aumphure_id": "1409",
+    "province_id": "14",
+    "name_en": "Amphoe Phachi",
+    "name_th": "อำเภอภาชี"
+  },
+  {
+    "id": 79,
+    "aumphure_id": "1410",
+    "province_id": "14",
+    "name_en": "Amphoe Lat Bua Luang",
+    "name_th": "อำเภอลาดบัวหลวง"
+  },
+  {
+    "id": 80,
+    "aumphure_id": "1411",
+    "province_id": "14",
+    "name_en": "Amphoe Wang Noi",
+    "name_th": "อำเภอวังน้อย"
+  },
+  {
+    "id": 81,
+    "aumphure_id": "1412",
+    "province_id": "14",
+    "name_en": "Amphoe Sena",
+    "name_th": "อำเภอเสนา"
+  },
+  {
+    "id": 82,
+    "aumphure_id": "1413",
+    "province_id": "14",
+    "name_en": "Amphoe Bang Sai",
+    "name_th": "อำเภอบางซ้าย"
+  },
+  {
+    "id": 83,
+    "aumphure_id": "1414",
+    "province_id": "14",
+    "name_en": "Amphoe Uthai",
+    "name_th": "อำเภออุทัย"
+  },
+  {
+    "id": 84,
+    "aumphure_id": "1415",
+    "province_id": "14",
+    "name_en": "Amphoe Maha Rat",
+    "name_th": "อำเภอมหาราช"
+  },
+  {
+    "id": 85,
+    "aumphure_id": "1416",
+    "province_id": "14",
+    "name_en": "Amphoe Ban Phraek",
+    "name_th": "อำเภอบ้านแพรก"
+  },
+  {
+    "id": 86,
+    "aumphure_id": "1501",
+    "province_id": "15",
+    "name_en": "Amphoe Mueang Ang Thong",
+    "name_th": "อำเภอเมืองอ่างทอง"
+  },
+  {
+    "id": 87,
+    "aumphure_id": "1502",
+    "province_id": "15",
+    "name_en": "Amphoe Chaiyo",
+    "name_th": "อำเภอไชโย"
+  },
+  {
+    "id": 88,
+    "aumphure_id": "1503",
+    "province_id": "15",
+    "name_en": "Amphoe Pa Mok",
+    "name_th": "อำเภอป่าโมก"
+  },
+  {
+    "id": 89,
+    "aumphure_id": "1504",
+    "province_id": "15",
+    "name_en": "Amphoe Pho Thong",
+    "name_th": "อำเภอโพธิ์ทอง"
+  },
+  {
+    "id": 90,
+    "aumphure_id": "1505",
+    "province_id": "15",
+    "name_en": "Amphoe Sawaeng Ha",
+    "name_th": "อำเภอแสวงหา"
+  },
+  {
+    "id": 91,
+    "aumphure_id": "1506",
+    "province_id": "15",
+    "name_en": "Amphoe Wiset Chai Chan",
+    "name_th": "อำเภอวิเศษชัยชาญ"
+  },
+  {
+    "id": 92,
+    "aumphure_id": "1507",
+    "province_id": "15",
+    "name_en": "Amphoe Samko",
+    "name_th": "อำเภอสามโก้"
+  },
+  {
+    "id": 93,
+    "aumphure_id": "1601",
+    "province_id": "16",
+    "name_en": "Amphoe Mueang Lop Buri",
+    "name_th": "อำเภอเมืองลพบุรี"
+  },
+  {
+    "id": 94,
+    "aumphure_id": "1602",
+    "province_id": "16",
+    "name_en": "Amphoe Phatthana Nikhom",
+    "name_th": "อำเภอพัฒนานิคม"
+  },
+  {
+    "id": 95,
+    "aumphure_id": "1603",
+    "province_id": "16",
+    "name_en": "Amphoe Khok Samrong",
+    "name_th": "อำเภอโคกสำโรง"
+  },
+  {
+    "id": 96,
+    "aumphure_id": "1604",
+    "province_id": "16",
+    "name_en": "Amphoe Chai Badan",
+    "name_th": "อำเภอชัยบาดาล"
+  },
+  {
+    "id": 97,
+    "aumphure_id": "1605",
+    "province_id": "16",
+    "name_en": "Amphoe Tha Wung",
+    "name_th": "อำเภอท่าวุ้ง"
+  },
+  {
+    "id": 98,
+    "aumphure_id": "1606",
+    "province_id": "16",
+    "name_en": "Amphoe Ban Mi",
+    "name_th": "อำเภอบ้านหมี่"
+  },
+  {
+    "id": 99,
+    "aumphure_id": "1607",
+    "province_id": "16",
+    "name_en": "Amphoe Tha Luang",
+    "name_th": "อำเภอท่าหลวง"
+  },
+  {
+    "id": 100,
+    "aumphure_id": "1608",
+    "province_id": "16",
+    "name_en": "Amphoe Sa Bot",
+    "name_th": "อำเภอสระโบสถ์"
+  },
+  {
+    "id": 101,
+    "aumphure_id": "1609",
+    "province_id": "16",
+    "name_en": "Amphoe Khok Charoen",
+    "name_th": "อำเภอโคกเจริญ"
+  },
+  {
+    "id": 102,
+    "aumphure_id": "1610",
+    "province_id": "16",
+    "name_en": "Amphoe Lam Sonthi",
+    "name_th": "อำเภอลำสนธิ"
+  },
+  {
+    "id": 103,
+    "aumphure_id": "1611",
+    "province_id": "16",
+    "name_en": "Amphoe Nong Muang",
+    "name_th": "อำเภอหนองม่วง"
+  },
+  {
+    "id": 104,
+    "aumphure_id": "1701",
+    "province_id": "17",
+    "name_en": "Amphoe Mueang Sing Buri",
+    "name_th": "อำเภอเมืองสิงห์บุรี"
+  },
+  {
+    "id": 105,
+    "aumphure_id": "1702",
+    "province_id": "17",
+    "name_en": "Amphoe Bang Rachan",
+    "name_th": "อำเภอบางระจัน"
+  },
+  {
+    "id": 106,
+    "aumphure_id": "1703",
+    "province_id": "17",
+    "name_en": "Amphoe Khai Bang Rachan",
+    "name_th": "อำเภอค่ายบางระจัน"
+  },
+  {
+    "id": 107,
+    "aumphure_id": "1704",
+    "province_id": "17",
+    "name_en": "Amphoe Phrom Buri",
+    "name_th": "อำเภอพรหมบุรี"
+  },
+  {
+    "id": 108,
+    "aumphure_id": "1705",
+    "province_id": "17",
+    "name_en": "Amphoe Tha Chang",
+    "name_th": "อำเภอท่าช้าง"
+  },
+  {
+    "id": 109,
+    "aumphure_id": "1706",
+    "province_id": "17",
+    "name_en": "Amphoe In Buri",
+    "name_th": "อำเภออินทร์บุรี"
+  },
+  {
+    "id": 110,
+    "aumphure_id": "1801",
+    "province_id": "18",
+    "name_en": "Amphoe Mueang Chai Nat",
+    "name_th": "อำเภอเมืองชัยนาท"
+  },
+  {
+    "id": 111,
+    "aumphure_id": "1802",
+    "province_id": "18",
+    "name_en": "Amphoe Manorom",
+    "name_th": "อำเภอมโนรมย์"
+  },
+  {
+    "id": 112,
+    "aumphure_id": "1803",
+    "province_id": "18",
+    "name_en": "Amphoe Wat Sing",
+    "name_th": "อำเภอวัดสิงห์"
+  },
+  {
+    "id": 113,
+    "aumphure_id": "1804",
+    "province_id": "18",
+    "name_en": "Amphoe Sapphaya",
+    "name_th": "อำเภอสรรพยา"
+  },
+  {
+    "id": 114,
+    "aumphure_id": "1805",
+    "province_id": "18",
+    "name_en": "Amphoe Sankhaburi",
+    "name_th": "อำเภอสรรคบุรี"
+  },
+  {
+    "id": 115,
+    "aumphure_id": "1806",
+    "province_id": "18",
+    "name_en": "Amphoe Hankha",
+    "name_th": "อำเภอหันคา"
+  },
+  {
+    "id": 116,
+    "aumphure_id": "1807",
+    "province_id": "18",
+    "name_en": "Amphoe Nong Mamong",
+    "name_th": "อำเภอหนองมะโมง"
+  },
+  {
+    "id": 117,
+    "aumphure_id": "1808",
+    "province_id": "18",
+    "name_en": "Amphoe Noen Kham",
+    "name_th": "อำเภอเนินขาม"
+  },
+  {
+    "id": 118,
+    "aumphure_id": "1901",
+    "province_id": "19",
+    "name_en": "Amphoe Mueang Saraburi",
+    "name_th": "อำเภอเมืองสระบุรี"
+  },
+  {
+    "id": 119,
+    "aumphure_id": "1902",
+    "province_id": "19",
+    "name_en": "Amphoe Kaeng Khoi",
+    "name_th": "อำเภอแก่งคอย"
+  },
+  {
+    "id": 120,
+    "aumphure_id": "1903",
+    "province_id": "19",
+    "name_en": "Amphoe Nong Khae",
+    "name_th": "อำเภอหนองแค"
+  },
+  {
+    "id": 121,
+    "aumphure_id": "1904",
+    "province_id": "19",
+    "name_en": "Amphoe Wihan Daeng",
+    "name_th": "อำเภอวิหารแดง"
+  },
+  {
+    "id": 122,
+    "aumphure_id": "1905",
+    "province_id": "19",
+    "name_en": "Amphoe Nong Saeng",
+    "name_th": "อำเภอหนองแซง"
+  },
+  {
+    "id": 123,
+    "aumphure_id": "1906",
+    "province_id": "19",
+    "name_en": "Amphoe Ban Mo",
+    "name_th": "อำเภอบ้านหมอ"
+  },
+  {
+    "id": 124,
+    "aumphure_id": "1907",
+    "province_id": "19",
+    "name_en": "Amphoe Don Phut",
+    "name_th": "อำเภอดอนพุด"
+  },
+  {
+    "id": 125,
+    "aumphure_id": "1908",
+    "province_id": "19",
+    "name_en": "Amphoe Nong Don",
+    "name_th": "อำเภอหนองโดน"
+  },
+  {
+    "id": 126,
+    "aumphure_id": "1909",
+    "province_id": "19",
+    "name_en": "Amphoe Phra Phutthabat",
+    "name_th": "อำเภอพระพุทธบาท"
+  },
+  {
+    "id": 127,
+    "aumphure_id": "1910",
+    "province_id": "19",
+    "name_en": "Amphoe Sao Hai",
+    "name_th": "อำเภอเสาไห้"
+  },
+  {
+    "id": 128,
+    "aumphure_id": "1911",
+    "province_id": "19",
+    "name_en": "Amphoe Muak Lek",
+    "name_th": "อำเภอมวกเหล็ก"
+  },
+  {
+    "id": 129,
+    "aumphure_id": "1912",
+    "province_id": "19",
+    "name_en": "Amphoe Wang Muang",
+    "name_th": "อำเภอวังม่วง"
+  },
+  {
+    "id": 130,
+    "aumphure_id": "1913",
+    "province_id": "19",
+    "name_en": "Amphoe Chaloem Phra Kiat",
+    "name_th": "อำเภอเฉลิมพระเกียรติ"
+  },
+  {
+    "id": 131,
+    "aumphure_id": "2001",
+    "province_id": "20",
+    "name_en": "Amphoe Mueang Chon Buri",
+    "name_th": "อำเภอเมืองชลบุรี"
+  },
+  {
+    "id": 132,
+    "aumphure_id": "2002",
+    "province_id": "20",
+    "name_en": "Amphoe Ban Bueng",
+    "name_th": "อำเภอบ้านบึง"
+  },
+  {
+    "id": 133,
+    "aumphure_id": "2003",
+    "province_id": "20",
+    "name_en": "Amphoe Nong Yai",
+    "name_th": "อำเภอหนองใหญ่"
+  },
+  {
+    "id": 134,
+    "aumphure_id": "2004",
+    "province_id": "20",
+    "name_en": "Amphoe Bang Lamung",
+    "name_th": "อำเภอบางละมุง"
+  },
+  {
+    "id": 135,
+    "aumphure_id": "2005",
+    "province_id": "20",
+    "name_en": "Amphoe Phan Thong",
+    "name_th": "อำเภอพานทอง"
+  },
+  {
+    "id": 136,
+    "aumphure_id": "2006",
+    "province_id": "20",
+    "name_en": "Amphoe Phanat Nikhom",
+    "name_th": "อำเภอพนัสนิคม"
+  },
+  {
+    "id": 137,
+    "aumphure_id": "2007",
+    "province_id": "20",
+    "name_en": "Amphoe Si Racha",
+    "name_th": "อำเภอศรีราชา"
+  },
+  {
+    "id": 138,
+    "aumphure_id": "2008",
+    "province_id": "20",
+    "name_en": "Amphoe Ko Sichang",
+    "name_th": "อำเภอเกาะสีชัง"
+  },
+  {
+    "id": 139,
+    "aumphure_id": "2009",
+    "province_id": "20",
+    "name_en": "Amphoe Sattahip",
+    "name_th": "อำเภอสัตหีบ"
+  },
+  {
+    "id": 140,
+    "aumphure_id": "2010",
+    "province_id": "20",
+    "name_en": "Amphoe Bo Thong",
+    "name_th": "อำเภอบ่อทอง"
+  },
+  {
+    "id": 141,
+    "aumphure_id": "2011",
+    "province_id": "20",
+    "name_en": "Amphoe Ko Chan",
+    "name_th": "อำเภอเกาะจันทร์"
+  },
+  {
+    "id": 142,
+    "aumphure_id": "2101",
+    "province_id": "21",
+    "name_en": "Amphoe Mueang Rayong",
+    "name_th": "อำเภอเมืองระยอง"
+  },
+  {
+    "id": 143,
+    "aumphure_id": "2102",
+    "province_id": "21",
+    "name_en": "Amphoe Ban Chang",
+    "name_th": "อำเภอบ้านฉาง"
+  },
+  {
+    "id": 144,
+    "aumphure_id": "2103",
+    "province_id": "21",
+    "name_en": "Amphoe Klaeng",
+    "name_th": "อำเภอแกลง"
+  },
+  {
+    "id": 145,
+    "aumphure_id": "2104",
+    "province_id": "21",
+    "name_en": "Amphoe Wang Chan",
+    "name_th": "อำเภอวังจันทร์"
+  },
+  {
+    "id": 146,
+    "aumphure_id": "2105",
+    "province_id": "21",
+    "name_en": "Amphoe Ban Khai",
+    "name_th": "อำเภอบ้านค่าย"
+  },
+  {
+    "id": 147,
+    "aumphure_id": "2106",
+    "province_id": "21",
+    "name_en": "Amphoe Pluak Daeng",
+    "name_th": "อำเภอปลวกแดง"
+  },
+  {
+    "id": 148,
+    "aumphure_id": "2107",
+    "province_id": "21",
+    "name_en": "Amphoe Khao Chamao",
+    "name_th": "อำเภอเขาชะเมา"
+  },
+  {
+    "id": 149,
+    "aumphure_id": "2108",
+    "province_id": "21",
+    "name_en": "Amphoe Nikhom Phatthana",
+    "name_th": "อำเภอนิคมพัฒนา"
+  },
+  {
+    "id": 150,
+    "aumphure_id": "2201",
+    "province_id": "22",
+    "name_en": "Amphoe Mueang Chanthaburi",
+    "name_th": "อำเภอเมืองจันทบุรี"
+  },
+  {
+    "id": 151,
+    "aumphure_id": "2202",
+    "province_id": "22",
+    "name_en": "Amphoe Khlung",
+    "name_th": "อำเภอขลุง"
+  },
+  {
+    "id": 152,
+    "aumphure_id": "2203",
+    "province_id": "22",
+    "name_en": "Amphoe Tha Mai",
+    "name_th": "อำเภอท่าใหม่"
+  },
+  {
+    "id": 153,
+    "aumphure_id": "2204",
+    "province_id": "22",
+    "name_en": "Amphoe Pong Nam Ron",
+    "name_th": "อำเภอโป่งน้ำร้อน"
+  },
+  {
+    "id": 154,
+    "aumphure_id": "2205",
+    "province_id": "22",
+    "name_en": "Amphoe Makham",
+    "name_th": "อำเภอมะขาม"
+  },
+  {
+    "id": 155,
+    "aumphure_id": "2206",
+    "province_id": "22",
+    "name_en": "Amphoe Laem Sing",
+    "name_th": "อำเภอแหลมสิงห์"
+  },
+  {
+    "id": 156,
+    "aumphure_id": "2207",
+    "province_id": "22",
+    "name_en": "Amphoe Soi Dao",
+    "name_th": "อำเภอสอยดาว"
+  },
+  {
+    "id": 157,
+    "aumphure_id": "2208",
+    "province_id": "22",
+    "name_en": "Amphoe Kaeng Hang Maeo",
+    "name_th": "อำเภอแก่งหางแมว"
+  },
+  {
+    "id": 158,
+    "aumphure_id": "2209",
+    "province_id": "22",
+    "name_en": "Amphoe Na Yai Am",
+    "name_th": "อำเภอนายายอาม"
+  },
+  {
+    "id": 159,
+    "aumphure_id": "2210",
+    "province_id": "22",
+    "name_en": "Amphoe Khao Khitchakut",
+    "name_th": "อำเภอเขาคิชฌกูฏ"
+  },
+  {
+    "id": 160,
+    "aumphure_id": "2301",
+    "province_id": "23",
+    "name_en": "Amphoe Mueang Trat",
+    "name_th": "อำเภอเมืองตราด"
+  },
+  {
+    "id": 161,
+    "aumphure_id": "2302",
+    "province_id": "23",
+    "name_en": "Amphoe Khlong Yai",
+    "name_th": "อำเภอคลองใหญ่"
+  },
+  {
+    "id": 162,
+    "aumphure_id": "2303",
+    "province_id": "23",
+    "name_en": "Amphoe Khao Saming",
+    "name_th": "อำเภอเขาสมิง"
+  },
+  {
+    "id": 163,
+    "aumphure_id": "2304",
+    "province_id": "23",
+    "name_en": "Amphoe Bo Rai",
+    "name_th": "อำเภอบ่อไร่"
+  },
+  {
+    "id": 164,
+    "aumphure_id": "2305",
+    "province_id": "23",
+    "name_en": "Amphoe Laem Ngop",
+    "name_th": "อำเภอแหลมงอบ"
+  },
+  {
+    "id": 165,
+    "aumphure_id": "2306",
+    "province_id": "23",
+    "name_en": "Amphoe Ko Kut",
+    "name_th": "อำเภอเกาะกูด"
+  },
+  {
+    "id": 166,
+    "aumphure_id": "2307",
+    "province_id": "23",
+    "name_en": "Amphoe Ko Chang",
+    "name_th": "อำเภอเกาะช้าง"
+  },
+  {
+    "id": 167,
+    "aumphure_id": "2401",
+    "province_id": "24",
+    "name_en": "Amphoe Mueang Chachoengsao",
+    "name_th": "อำเภอเมืองฉะเชิงเทรา"
+  },
+  {
+    "id": 168,
+    "aumphure_id": "2402",
+    "province_id": "24",
+    "name_en": "Amphoe Bang Khla",
+    "name_th": "อำเภอบางคล้า"
+  },
+  {
+    "id": 169,
+    "aumphure_id": "2403",
+    "province_id": "24",
+    "name_en": "Amphoe Bang Nam Priao",
+    "name_th": "อำเภอบางน้ำเปรี้ยว"
+  },
+  {
+    "id": 170,
+    "aumphure_id": "2404",
+    "province_id": "24",
+    "name_en": "Amphoe Bang Pakong",
+    "name_th": "อำเภอบางปะกง"
+  },
+  {
+    "id": 171,
+    "aumphure_id": "2405",
+    "province_id": "24",
+    "name_en": "Amphoe Ban Pho",
+    "name_th": "อำเภอบ้านโพธิ์"
+  },
+  {
+    "id": 172,
+    "aumphure_id": "2406",
+    "province_id": "24",
+    "name_en": "Amphoe Phanom Sarakham",
+    "name_th": "อำเภอพนมสารคาม"
+  },
+  {
+    "id": 173,
+    "aumphure_id": "2407",
+    "province_id": "24",
+    "name_en": "Amphoe Ratchasan",
+    "name_th": "อำเภอราชสาส์น"
+  },
+  {
+    "id": 174,
+    "aumphure_id": "2408",
+    "province_id": "24",
+    "name_en": "Amphoe Sanam Chai Khet",
+    "name_th": "อำเภอสนามชัยเขต"
+  },
+  {
+    "id": 175,
+    "aumphure_id": "2409",
+    "province_id": "24",
+    "name_en": "Amphoe Plaeng Yao",
+    "name_th": "อำเภอแปลงยาว"
+  },
+  {
+    "id": 176,
+    "aumphure_id": "2410",
+    "province_id": "24",
+    "name_en": "Amphoe Tha Takiap",
+    "name_th": "อำเภอท่าตะเกียบ"
+  },
+  {
+    "id": 177,
+    "aumphure_id": "2411",
+    "province_id": "24",
+    "name_en": "Amphoe Khlong Khuean",
+    "name_th": "อำเภอคลองเขื่อน"
+  },
+  {
+    "id": 178,
+    "aumphure_id": "2501",
+    "province_id": "25",
+    "name_en": "Amphoe Mueang Prachin Buri",
+    "name_th": "อำเภอเมืองปราจีนบุรี"
+  },
+  {
+    "id": 179,
+    "aumphure_id": "2502",
+    "province_id": "25",
+    "name_en": "Amphoe Kabin Buri",
+    "name_th": "อำเภอกบินทร์บุรี"
+  },
+  {
+    "id": 180,
+    "aumphure_id": "2503",
+    "province_id": "25",
+    "name_en": "Amphoe Na Di",
+    "name_th": "อำเภอนาดี"
+  },
+  {
+    "id": 181,
+    "aumphure_id": "2506",
+    "province_id": "25",
+    "name_en": "Amphoe Ban Sang",
+    "name_th": "อำเภอบ้านสร้าง"
+  },
+  {
+    "id": 182,
+    "aumphure_id": "2507",
+    "province_id": "25",
+    "name_en": "Amphoe Prachantakham",
+    "name_th": "อำเภอประจันตคาม"
+  },
+  {
+    "id": 183,
+    "aumphure_id": "2508",
+    "province_id": "25",
+    "name_en": "Amphoe Si Maha Phot",
+    "name_th": "อำเภอศรีมหาโพธิ"
+  },
+  {
+    "id": 184,
+    "aumphure_id": "2509",
+    "province_id": "25",
+    "name_en": "Amphoe Si Mahosot",
+    "name_th": "อำเภอศรีมโหสถ"
+  },
+  {
+    "id": 185,
+    "aumphure_id": "2601",
+    "province_id": "26",
+    "name_en": "Amphoe Mueang Nakhon Nayok",
+    "name_th": "อำเภอเมืองนครนายก"
+  },
+  {
+    "id": 186,
+    "aumphure_id": "2602",
+    "province_id": "26",
+    "name_en": "Amphoe Pak Phli",
+    "name_th": "อำเภอปากพลี"
+  },
+  {
+    "id": 187,
+    "aumphure_id": "2603",
+    "province_id": "26",
+    "name_en": "Amphoe Ban Na",
+    "name_th": "อำเภอบ้านนา"
+  },
+  {
+    "id": 188,
+    "aumphure_id": "2604",
+    "province_id": "26",
+    "name_en": "Amphoe Ongkharak",
+    "name_th": "อำเภอองครักษ์"
+  },
+  {
+    "id": 189,
+    "aumphure_id": "2701",
+    "province_id": "27",
+    "name_en": "Amphoe Mueang Sa Kaeo",
+    "name_th": "อำเภอเมืองสระแก้ว"
+  },
+  {
+    "id": 190,
+    "aumphure_id": "2702",
+    "province_id": "27",
+    "name_en": "Amphoe Khlong Hat",
+    "name_th": "อำเภอคลองหาด"
+  },
+  {
+    "id": 191,
+    "aumphure_id": "2703",
+    "province_id": "27",
+    "name_en": "Amphoe Ta Phraya",
+    "name_th": "อำเภอตาพระยา"
+  },
+  {
+    "id": 192,
+    "aumphure_id": "2704",
+    "province_id": "27",
+    "name_en": "Amphoe Wang Nam Yen",
+    "name_th": "อำเภอวังน้ำเย็น"
+  },
+  {
+    "id": 193,
+    "aumphure_id": "2705",
+    "province_id": "27",
+    "name_en": "Amphoe Watthana Nakhon",
+    "name_th": "อำเภอวัฒนานคร"
+  },
+  {
+    "id": 194,
+    "aumphure_id": "2706",
+    "province_id": "27",
+    "name_en": "Amphoe Aranyaprathet",
+    "name_th": "อำเภออรัญประเทศ"
+  },
+  {
+    "id": 195,
+    "aumphure_id": "2707",
+    "province_id": "27",
+    "name_en": "Amphoe Khao Chakan",
+    "name_th": "อำเภอเขาฉกรรจ์"
+  },
+  {
+    "id": 196,
+    "aumphure_id": "2708",
+    "province_id": "27",
+    "name_en": "Amphoe Khok Sung",
+    "name_th": "อำเภอโคกสูง"
+  },
+  {
+    "id": 197,
+    "aumphure_id": "2709",
+    "province_id": "27",
+    "name_en": "Amphoe Wang Sombun",
+    "name_th": "อำเภอวังสมบูรณ์"
+  },
+  {
+    "id": 198,
+    "aumphure_id": "3001",
+    "province_id": "30",
+    "name_en": "Amphoe Mueang Nakhon Ratchasima",
+    "name_th": "อำเภอเมืองนครราชสีมา"
+  },
+  {
+    "id": 199,
+    "aumphure_id": "3002",
+    "province_id": "30",
+    "name_en": "Amphoe Khon Buri",
+    "name_th": "อำเภอครบุรี"
+  },
+  {
+    "id": 200,
+    "aumphure_id": "3003",
+    "province_id": "30",
+    "name_en": "Amphoe Soeng Sang",
+    "name_th": "อำเภอเสิงสาง"
+  },
+  {
+    "id": 201,
+    "aumphure_id": "3004",
+    "province_id": "30",
+    "name_en": "Amphoe Khong",
+    "name_th": "อำเภอคง"
+  },
+  {
+    "id": 202,
+    "aumphure_id": "3005",
+    "province_id": "30",
+    "name_en": "Amphoe Ban Lueam",
+    "name_th": "อำเภอบ้านเหลื่อม"
+  },
+  {
+    "id": 203,
+    "aumphure_id": "3006",
+    "province_id": "30",
+    "name_en": "Amphoe Chakkarat",
+    "name_th": "อำเภอจักราช"
+  },
+  {
+    "id": 204,
+    "aumphure_id": "3007",
+    "province_id": "30",
+    "name_en": "Amphoe Chok Chai",
+    "name_th": "อำเภอโชคชัย"
+  },
+  {
+    "id": 205,
+    "aumphure_id": "3008",
+    "province_id": "30",
+    "name_en": "Amphoe Dan Khun Thot",
+    "name_th": "อำเภอด่านขุนทด"
+  },
+  {
+    "id": 206,
+    "aumphure_id": "3009",
+    "province_id": "30",
+    "name_en": "Amphoe Non Thai",
+    "name_th": "อำเภอโนนไทย"
+  },
+  {
+    "id": 207,
+    "aumphure_id": "3010",
+    "province_id": "30",
+    "name_en": "Amphoe Non Sung",
+    "name_th": "อำเภอโนนสูง"
+  },
+  {
+    "id": 208,
+    "aumphure_id": "3011",
+    "province_id": "30",
+    "name_en": "Amphoe Kham Sakaesaeng",
+    "name_th": "อำเภอขามสะแกแสง"
+  },
+  {
+    "id": 209,
+    "aumphure_id": "3012",
+    "province_id": "30",
+    "name_en": "Amphoe Bua Yai",
+    "name_th": "อำเภอบัวใหญ่"
+  },
+  {
+    "id": 210,
+    "aumphure_id": "3013",
+    "province_id": "30",
+    "name_en": "Amphoe Prathai",
+    "name_th": "อำเภอประทาย"
+  },
+  {
+    "id": 211,
+    "aumphure_id": "3014",
+    "province_id": "30",
+    "name_en": "Amphoe Pak Thong Chai",
+    "name_th": "อำเภอปักธงชัย"
+  },
+  {
+    "id": 212,
+    "aumphure_id": "3015",
+    "province_id": "30",
+    "name_en": "Amphoe Phimai",
+    "name_th": "อำเภอพิมาย"
+  },
+  {
+    "id": 213,
+    "aumphure_id": "3016",
+    "province_id": "30",
+    "name_en": "Amphoe Huai Thalaeng",
+    "name_th": "อำเภอห้วยแถลง"
+  },
+  {
+    "id": 214,
+    "aumphure_id": "3017",
+    "province_id": "30",
+    "name_en": "Amphoe Chum Phuang",
+    "name_th": "อำเภอชุมพวง"
+  },
+  {
+    "id": 215,
+    "aumphure_id": "3018",
+    "province_id": "30",
+    "name_en": "Amphoe Sung Noen",
+    "name_th": "อำเภอสูงเนิน"
+  },
+  {
+    "id": 216,
+    "aumphure_id": "3019",
+    "province_id": "30",
+    "name_en": "Amphoe Kham Thale So",
+    "name_th": "อำเภอขามทะเลสอ"
+  },
+  {
+    "id": 217,
+    "aumphure_id": "3020",
+    "province_id": "30",
+    "name_en": "Amphoe Sikhio",
+    "name_th": "อำเภอสีคิ้ว"
+  },
+  {
+    "id": 218,
+    "aumphure_id": "3021",
+    "province_id": "30",
+    "name_en": "Amphoe Pak Chong",
+    "name_th": "อำเภอปากช่อง"
+  },
+  {
+    "id": 219,
+    "aumphure_id": "3022",
+    "province_id": "30",
+    "name_en": "Amphoe Nong Bunmak",
+    "name_th": "อำเภอหนองบุญมาก"
+  },
+  {
+    "id": 220,
+    "aumphure_id": "3023",
+    "province_id": "30",
+    "name_en": "Amphoe Kaeng Sanam Nang",
+    "name_th": "อำเภอแก้งสนามนาง"
+  },
+  {
+    "id": 221,
+    "aumphure_id": "3024",
+    "province_id": "30",
+    "name_en": "Amphoe Non Daeng",
+    "name_th": "อำเภอโนนแดง"
+  },
+  {
+    "id": 222,
+    "aumphure_id": "3025",
+    "province_id": "30",
+    "name_en": "Amphoe Wang Nam Khiao",
+    "name_th": "อำเภอวังน้ำเขียว"
+  },
+  {
+    "id": 223,
+    "aumphure_id": "3026",
+    "province_id": "30",
+    "name_en": "Amphoe Thepharak",
+    "name_th": "อำเภอเทพารักษ์"
+  },
+  {
+    "id": 224,
+    "aumphure_id": "3027",
+    "province_id": "30",
+    "name_en": "Amphoe Mueang Yang",
+    "name_th": "อำเภอเมืองยาง"
+  },
+  {
+    "id": 225,
+    "aumphure_id": "3028",
+    "province_id": "30",
+    "name_en": "Amphoe Phra Thong Kham",
+    "name_th": "อำเภอพระทองคำ"
+  },
+  {
+    "id": 226,
+    "aumphure_id": "3029",
+    "province_id": "30",
+    "name_en": "Amphoe Lam Thamenchai",
+    "name_th": "อำเภอลำทะเมนชัย"
+  },
+  {
+    "id": 227,
+    "aumphure_id": "3030",
+    "province_id": "30",
+    "name_en": "Amphoe Bua Lai",
+    "name_th": "อำเภอบัวลาย"
+  },
+  {
+    "id": 228,
+    "aumphure_id": "3031",
+    "province_id": "30",
+    "name_en": "Amphoe Sida",
+    "name_th": "อำเภอสีดา"
+  },
+  {
+    "id": 229,
+    "aumphure_id": "3032",
+    "province_id": "30",
+    "name_en": "Amphoe Chaloem Phra Kiat",
+    "name_th": "อำเภอเฉลิมพระเกียรติ"
+  },
+  {
+    "id": 230,
+    "aumphure_id": "3101",
+    "province_id": "31",
+    "name_en": "Amphoe Mueang Buri Ram",
+    "name_th": "อำเภอเมืองบุรีรัมย์"
+  },
+  {
+    "id": 231,
+    "aumphure_id": "3102",
+    "province_id": "31",
+    "name_en": "Amphoe Khu Mueang",
+    "name_th": "อำเภอคูเมือง"
+  },
+  {
+    "id": 232,
+    "aumphure_id": "3103",
+    "province_id": "31",
+    "name_en": "Amphoe Krasang",
+    "name_th": "อำเภอกระสัง"
+  },
+  {
+    "id": 233,
+    "aumphure_id": "3104",
+    "province_id": "31",
+    "name_en": "Amphoe Nang Rong",
+    "name_th": "อำเภอนางรอง"
+  },
+  {
+    "id": 234,
+    "aumphure_id": "3105",
+    "province_id": "31",
+    "name_en": "Amphoe Nong Ki",
+    "name_th": "อำเภอหนองกี่"
+  },
+  {
+    "id": 235,
+    "aumphure_id": "3106",
+    "province_id": "31",
+    "name_en": "Amphoe Lahan Sai",
+    "name_th": "อำเภอละหานทราย"
+  },
+  {
+    "id": 236,
+    "aumphure_id": "3107",
+    "province_id": "31",
+    "name_en": "Amphoe Prakhon Chai",
+    "name_th": "อำเภอประโคนชัย"
+  },
+  {
+    "id": 237,
+    "aumphure_id": "3108",
+    "province_id": "31",
+    "name_en": "Amphoe Ban Kruat",
+    "name_th": "อำเภอบ้านกรวด"
+  },
+  {
+    "id": 238,
+    "aumphure_id": "3109",
+    "province_id": "31",
+    "name_en": "Amphoe Phutthaisong",
+    "name_th": "อำเภอพุทไธสง"
+  },
+  {
+    "id": 239,
+    "aumphure_id": "3110",
+    "province_id": "31",
+    "name_en": "Amphoe Lam Plai Mat",
+    "name_th": "อำเภอลำปลายมาศ"
+  },
+  {
+    "id": 240,
+    "aumphure_id": "3111",
+    "province_id": "31",
+    "name_en": "Amphoe Satuek",
+    "name_th": "อำเภอสตึก"
+  },
+  {
+    "id": 241,
+    "aumphure_id": "3112",
+    "province_id": "31",
+    "name_en": "Amphoe Pakham",
+    "name_th": "อำเภอปะคำ"
+  },
+  {
+    "id": 242,
+    "aumphure_id": "3113",
+    "province_id": "31",
+    "name_en": "Amphoe Na Pho",
+    "name_th": "อำเภอนาโพธิ์"
+  },
+  {
+    "id": 243,
+    "aumphure_id": "3114",
+    "province_id": "31",
+    "name_en": "Amphoe Nong Hong",
+    "name_th": "อำเภอหนองหงส์"
+  },
+  {
+    "id": 244,
+    "aumphure_id": "3115",
+    "province_id": "31",
+    "name_en": "Amphoe Phlapphla Chai",
+    "name_th": "อำเภอพลับพลาชัย"
+  },
+  {
+    "id": 245,
+    "aumphure_id": "3116",
+    "province_id": "31",
+    "name_en": "Amphoe Huai Rat",
+    "name_th": "อำเภอห้วยราช"
+  },
+  {
+    "id": 246,
+    "aumphure_id": "3117",
+    "province_id": "31",
+    "name_en": "Amphoe Non Suwan",
+    "name_th": "อำเภอโนนสุวรรณ"
+  },
+  {
+    "id": 247,
+    "aumphure_id": "3118",
+    "province_id": "31",
+    "name_en": "Amphoe Chamni",
+    "name_th": "อำเภอชำนิ"
+  },
+  {
+    "id": 248,
+    "aumphure_id": "3119",
+    "province_id": "31",
+    "name_en": "Amphoe Ban Mai Chaiyaphot",
+    "name_th": "อำเภอบ้านใหม่ไชยพจน์"
+  },
+  {
+    "id": 249,
+    "aumphure_id": "3120",
+    "province_id": "31",
+    "name_en": "Amphoe Non Din Daeng",
+    "name_th": "อำเภอโนนดินแดง"
+  },
+  {
+    "id": 250,
+    "aumphure_id": "3121",
+    "province_id": "31",
+    "name_en": "Amphoe Ban Dan",
+    "name_th": "อำเภอบ้านด่าน"
+  },
+  {
+    "id": 251,
+    "aumphure_id": "3122",
+    "province_id": "31",
+    "name_en": "Amphoe Khaen Dong",
+    "name_th": "อำเภอแคนดง"
+  },
+  {
+    "id": 252,
+    "aumphure_id": "3123",
+    "province_id": "31",
+    "name_en": "Amphoe Chaloem Phra Kiat",
+    "name_th": "อำเภอเฉลิมพระเกียรติ"
+  },
+  {
+    "id": 253,
+    "aumphure_id": "3201",
+    "province_id": "32",
+    "name_en": "Amphoe Mueang Surin",
+    "name_th": "อำเภอเมืองสุรินทร์"
+  },
+  {
+    "id": 254,
+    "aumphure_id": "3202",
+    "province_id": "32",
+    "name_en": "Amphoe Chumphon Buri",
+    "name_th": "อำเภอชุมพลบุรี"
+  },
+  {
+    "id": 255,
+    "aumphure_id": "3203",
+    "province_id": "32",
+    "name_en": "Amphoe Tha Tum",
+    "name_th": "อำเภอท่าตูม"
+  },
+  {
+    "id": 256,
+    "aumphure_id": "3204",
+    "province_id": "32",
+    "name_en": "Amphoe Chom Phra",
+    "name_th": "อำเภอจอมพระ"
+  },
+  {
+    "id": 257,
+    "aumphure_id": "3205",
+    "province_id": "32",
+    "name_en": "Amphoe Prasat",
+    "name_th": "อำเภอปราสาท"
+  },
+  {
+    "id": 258,
+    "aumphure_id": "3206",
+    "province_id": "32",
+    "name_en": "Amphoe Kap Choeng",
+    "name_th": "อำเภอกาบเชิง"
+  },
+  {
+    "id": 259,
+    "aumphure_id": "3207",
+    "province_id": "32",
+    "name_en": "Amphoe Rattanaburi",
+    "name_th": "อำเภอรัตนบุรี"
+  },
+  {
+    "id": 260,
+    "aumphure_id": "3208",
+    "province_id": "32",
+    "name_en": "Amphoe Sanom",
+    "name_th": "อำเภอสนม"
+  },
+  {
+    "id": 261,
+    "aumphure_id": "3209",
+    "province_id": "32",
+    "name_en": "Amphoe Sikhoraphum",
+    "name_th": "อำเภอศีขรภูมิ"
+  },
+  {
+    "id": 262,
+    "aumphure_id": "3210",
+    "province_id": "32",
+    "name_en": "Amphoe Sangkha",
+    "name_th": "อำเภอสังขะ"
+  },
+  {
+    "id": 263,
+    "aumphure_id": "3211",
+    "province_id": "32",
+    "name_en": "Amphoe Lamduan",
+    "name_th": "อำเภอลำดวน"
+  },
+  {
+    "id": 264,
+    "aumphure_id": "3212",
+    "province_id": "32",
+    "name_en": "Amphoe Samrong Thap",
+    "name_th": "อำเภอสำโรงทาบ"
+  },
+  {
+    "id": 265,
+    "aumphure_id": "3213",
+    "province_id": "32",
+    "name_en": "Amphoe Buachet",
+    "name_th": "อำเภอบัวเชด"
+  },
+  {
+    "id": 266,
+    "aumphure_id": "3214",
+    "province_id": "32",
+    "name_en": "Amphoe Phanom Dong Rak",
+    "name_th": "อำเภอพนมดงรัก"
+  },
+  {
+    "id": 267,
+    "aumphure_id": "3215",
+    "province_id": "32",
+    "name_en": "Amphoe Si Narong",
+    "name_th": "อำเภอศรีณรงค์"
+  },
+  {
+    "id": 268,
+    "aumphure_id": "3216",
+    "province_id": "32",
+    "name_en": "Amphoe Khwao Sinrin",
+    "name_th": "อำเภอเขวาสินรินทร์"
+  },
+  {
+    "id": 269,
+    "aumphure_id": "3217",
+    "province_id": "32",
+    "name_en": "Amphoe Non Narai",
+    "name_th": "อำเภอโนนนารายณ์"
+  },
+  {
+    "id": 270,
+    "aumphure_id": "3301",
+    "province_id": "33",
+    "name_en": "Amphoe Mueang Si Sa Ket",
+    "name_th": "อำเภอเมืองศรีสะเกษ"
+  },
+  {
+    "id": 271,
+    "aumphure_id": "3302",
+    "province_id": "33",
+    "name_en": "Amphoe Yang Chum Noi",
+    "name_th": "อำเภอยางชุมน้อย"
+  },
+  {
+    "id": 272,
+    "aumphure_id": "3303",
+    "province_id": "33",
+    "name_en": "Amphoe Kanthararom",
+    "name_th": "อำเภอกันทรารมย์"
+  },
+  {
+    "id": 273,
+    "aumphure_id": "3304",
+    "province_id": "33",
+    "name_en": "Amphoe Kantharalak",
+    "name_th": "อำเภอกันทรลักษ์"
+  },
+  {
+    "id": 274,
+    "aumphure_id": "3305",
+    "province_id": "33",
+    "name_en": "Amphoe Khukhan",
+    "name_th": "อำเภอขุขันธ์"
+  },
+  {
+    "id": 275,
+    "aumphure_id": "3306",
+    "province_id": "33",
+    "name_en": "Amphoe Phrai Bueng",
+    "name_th": "อำเภอไพรบึง"
+  },
+  {
+    "id": 276,
+    "aumphure_id": "3307",
+    "province_id": "33",
+    "name_en": "Amphoe Prang Ku",
+    "name_th": "อำเภอปรางค์กู่"
+  },
+  {
+    "id": 277,
+    "aumphure_id": "3308",
+    "province_id": "33",
+    "name_en": "Amphoe Khun Han",
+    "name_th": "อำเภอขุนหาญ"
+  },
+  {
+    "id": 278,
+    "aumphure_id": "3309",
+    "province_id": "33",
+    "name_en": "Amphoe Rasi Salai",
+    "name_th": "อำเภอราษีไศล"
+  },
+  {
+    "id": 279,
+    "aumphure_id": "3310",
+    "province_id": "33",
+    "name_en": "Amphoe Uthumphon Phisai",
+    "name_th": "อำเภออุทุมพรพิสัย"
+  },
+  {
+    "id": 280,
+    "aumphure_id": "3311",
+    "province_id": "33",
+    "name_en": "Amphoe Bueng Bun",
+    "name_th": "อำเภอบึงบูรพ์"
+  },
+  {
+    "id": 281,
+    "aumphure_id": "3312",
+    "province_id": "33",
+    "name_en": "Amphoe Huai Thap Than",
+    "name_th": "อำเภอห้วยทับทัน"
+  },
+  {
+    "id": 282,
+    "aumphure_id": "3313",
+    "province_id": "33",
+    "name_en": "Amphoe Non Khun",
+    "name_th": "อำเภอโนนคูณ"
+  },
+  {
+    "id": 283,
+    "aumphure_id": "3314",
+    "province_id": "33",
+    "name_en": "Amphoe Si Rattana",
+    "name_th": "อำเภอศรีรัตนะ"
+  },
+  {
+    "id": 284,
+    "aumphure_id": "3315",
+    "province_id": "33",
+    "name_en": "Amphoe Nam Kliang",
+    "name_th": "อำเภอน้ำเกลี้ยง"
+  },
+  {
+    "id": 285,
+    "aumphure_id": "3316",
+    "province_id": "33",
+    "name_en": "Amphoe Wang Hin",
+    "name_th": "อำเภอวังหิน"
+  },
+  {
+    "id": 286,
+    "aumphure_id": "3317",
+    "province_id": "33",
+    "name_en": "Amphoe Phu Sing",
+    "name_th": "อำเภอภูสิงห์"
+  },
+  {
+    "id": 287,
+    "aumphure_id": "3318",
+    "province_id": "33",
+    "name_en": "Amphoe Mueang Chan",
+    "name_th": "อำเภอเมืองจันทร์"
+  },
+  {
+    "id": 288,
+    "aumphure_id": "3319",
+    "province_id": "33",
+    "name_en": "Amphoe Benchalak",
+    "name_th": "อำเภอเบญจลักษ์"
+  },
+  {
+    "id": 289,
+    "aumphure_id": "3320",
+    "province_id": "33",
+    "name_en": "Amphoe Phayu",
+    "name_th": "อำเภอพยุห์"
+  },
+  {
+    "id": 290,
+    "aumphure_id": "3321",
+    "province_id": "33",
+    "name_en": "Amphoe Pho Si Suwan",
+    "name_th": "อำเภอโพธิ์ศรีสุวรรณ"
+  },
+  {
+    "id": 291,
+    "aumphure_id": "3322",
+    "province_id": "33",
+    "name_en": "Amphoe Sila Lat",
+    "name_th": "อำเภอศิลาลาด"
+  },
+  {
+    "id": 292,
+    "aumphure_id": "3401",
+    "province_id": "34",
+    "name_en": "Amphoe Mueang Ubon Ratchathani",
+    "name_th": "อำเภอเมืองอุบลราชธานี"
+  },
+  {
+    "id": 293,
+    "aumphure_id": "3402",
+    "province_id": "34",
+    "name_en": "Amphoe Si Mueang Mai",
+    "name_th": "อำเภอศรีเมืองใหม่"
+  },
+  {
+    "id": 294,
+    "aumphure_id": "3403",
+    "province_id": "34",
+    "name_en": "Amphoe Khong Chiam",
+    "name_th": "อำเภอโขงเจียม"
+  },
+  {
+    "id": 295,
+    "aumphure_id": "3404",
+    "province_id": "34",
+    "name_en": "Amphoe Khueang Nai",
+    "name_th": "อำเภอเขื่องใน"
+  },
+  {
+    "id": 296,
+    "aumphure_id": "3405",
+    "province_id": "34",
+    "name_en": "Amphoe Khemarat",
+    "name_th": "อำเภอเขมราฐ"
+  },
+  {
+    "id": 297,
+    "aumphure_id": "3407",
+    "province_id": "34",
+    "name_en": "Amphoe Det Udom",
+    "name_th": "อำเภอเดชอุดม"
+  },
+  {
+    "id": 298,
+    "aumphure_id": "3408",
+    "province_id": "34",
+    "name_en": "Amphoe Na Chaluai",
+    "name_th": "อำเภอนาจะหลวย"
+  },
+  {
+    "id": 299,
+    "aumphure_id": "3409",
+    "province_id": "34",
+    "name_en": "Amphoe Nam Yuen",
+    "name_th": "อำเภอน้ำยืน"
+  },
+  {
+    "id": 300,
+    "aumphure_id": "3410",
+    "province_id": "34",
+    "name_en": "Amphoe Buntharik",
+    "name_th": "อำเภอบุณฑริก"
+  },
+  {
+    "id": 301,
+    "aumphure_id": "3411",
+    "province_id": "34",
+    "name_en": "Amphoe Trakan Phuet Phon",
+    "name_th": "อำเภอตระการพืชผล"
+  },
+  {
+    "id": 302,
+    "aumphure_id": "3412",
+    "province_id": "34",
+    "name_en": "Amphoe Kut Khaopun",
+    "name_th": "อำเภอกุดข้าวปุ้น"
+  },
+  {
+    "id": 303,
+    "aumphure_id": "3414",
+    "province_id": "34",
+    "name_en": "Amphoe Muang Sam Sip",
+    "name_th": "อำเภอม่วงสามสิบ"
+  },
+  {
+    "id": 304,
+    "aumphure_id": "3415",
+    "province_id": "34",
+    "name_en": "Amphoe Warin Chamrap",
+    "name_th": "อำเภอวารินชำราบ"
+  },
+  {
+    "id": 305,
+    "aumphure_id": "3419",
+    "province_id": "34",
+    "name_en": "Amphoe Phibun Mangsahan",
+    "name_th": "อำเภอพิบูลมังสาหาร"
+  },
+  {
+    "id": 306,
+    "aumphure_id": "3420",
+    "province_id": "34",
+    "name_en": "Amphoe Tan Sum",
+    "name_th": "อำเภอตาลสุม"
+  },
+  {
+    "id": 307,
+    "aumphure_id": "3421",
+    "province_id": "34",
+    "name_en": "Amphoe Pho Sai",
+    "name_th": "อำเภอโพธิ์ไทร"
+  },
+  {
+    "id": 308,
+    "aumphure_id": "3422",
+    "province_id": "34",
+    "name_en": "Amphoe Samrong",
+    "name_th": "อำเภอสำโรง"
+  },
+  {
+    "id": 309,
+    "aumphure_id": "3424",
+    "province_id": "34",
+    "name_en": "Amphoe Don Mot Daeng",
+    "name_th": "อำเภอดอนมดแดง"
+  },
+  {
+    "id": 310,
+    "aumphure_id": "3425",
+    "province_id": "34",
+    "name_en": "Amphoe Sirindhorn",
+    "name_th": "อำเภอสิรินธร"
+  },
+  {
+    "id": 311,
+    "aumphure_id": "3426",
+    "province_id": "34",
+    "name_en": "Amphoe Thung Si Udom",
+    "name_th": "อำเภอทุ่งศรีอุดม"
+  },
+  {
+    "id": 312,
+    "aumphure_id": "3429",
+    "province_id": "34",
+    "name_en": "Amphoe Na Yia",
+    "name_th": "อำเภอนาเยีย"
+  },
+  {
+    "id": 313,
+    "aumphure_id": "3430",
+    "province_id": "34",
+    "name_en": "Amphoe Na Tan",
+    "name_th": "อำเภอนาตาล"
+  },
+  {
+    "id": 314,
+    "aumphure_id": "3431",
+    "province_id": "34",
+    "name_en": "Fang Kham",
+    "name_th": "อำเภอเหล่าเสือโก้ก"
+  },
+  {
+    "id": 315,
+    "aumphure_id": "3432",
+    "province_id": "34",
+    "name_en": "Amphoe Sawang Wirawong",
+    "name_th": "อำเภอสว่างวีระวงศ์"
+  },
+  {
+    "id": 316,
+    "aumphure_id": "3433",
+    "province_id": "34",
+    "name_en": "Amphoe Nam Khun",
+    "name_th": "อำเภอน้ำขุ่น"
+  },
+  {
+    "id": 317,
+    "aumphure_id": "3501",
+    "province_id": "35",
+    "name_en": "Amphoe Mueang Yasothon",
+    "name_th": "อำเภอเมืองยโสธร"
+  },
+  {
+    "id": 318,
+    "aumphure_id": "3502",
+    "province_id": "35",
+    "name_en": "Amphoe Sai Mun",
+    "name_th": "อำเภอทรายมูล"
+  },
+  {
+    "id": 319,
+    "aumphure_id": "3503",
+    "province_id": "35",
+    "name_en": "Amphoe Kut Chum",
+    "name_th": "อำเภอกุดชุม"
+  },
+  {
+    "id": 320,
+    "aumphure_id": "3504",
+    "province_id": "35",
+    "name_en": "Amphoe Kham Khuean Kaeo",
+    "name_th": "อำเภอคำเขื่อนแก้ว"
+  },
+  {
+    "id": 321,
+    "aumphure_id": "3505",
+    "province_id": "35",
+    "name_en": "Amphoe Pa Tio",
+    "name_th": "อำเภอป่าติ้ว"
+  },
+  {
+    "id": 322,
+    "aumphure_id": "3506",
+    "province_id": "35",
+    "name_en": "Amphoe Maha Chana Chai",
+    "name_th": "อำเภอมหาชนะชัย"
+  },
+  {
+    "id": 323,
+    "aumphure_id": "3507",
+    "province_id": "35",
+    "name_en": "Amphoe Kho Wang",
+    "name_th": "อำเภอค้อวัง"
+  },
+  {
+    "id": 324,
+    "aumphure_id": "3508",
+    "province_id": "35",
+    "name_en": "Amphoe Loeng Nok Tha",
+    "name_th": "อำเภอเลิงนกทา"
+  },
+  {
+    "id": 325,
+    "aumphure_id": "3509",
+    "province_id": "35",
+    "name_en": "Amphoe Thai Charoen",
+    "name_th": "อำเภอไทยเจริญ"
+  },
+  {
+    "id": 326,
+    "aumphure_id": "3601",
+    "province_id": "36",
+    "name_en": "Amphoe Mueang Chaiyaphum",
+    "name_th": "อำเภอเมืองชัยภูมิ"
+  },
+  {
+    "id": 327,
+    "aumphure_id": "3602",
+    "province_id": "36",
+    "name_en": "Amphoe Ban Khwao",
+    "name_th": "อำเภอบ้านเขว้า"
+  },
+  {
+    "id": 328,
+    "aumphure_id": "3603",
+    "province_id": "36",
+    "name_en": "Amphoe Khon Sawan",
+    "name_th": "อำเภอคอนสวรรค์"
+  },
+  {
+    "id": 329,
+    "aumphure_id": "3604",
+    "province_id": "36",
+    "name_en": "Amphoe Kaset Sombun",
+    "name_th": "อำเภอเกษตรสมบูรณ์"
+  },
+  {
+    "id": 330,
+    "aumphure_id": "3605",
+    "province_id": "36",
+    "name_en": "Amphoe Nong Bua Daeng",
+    "name_th": "อำเภอหนองบัวแดง"
+  },
+  {
+    "id": 331,
+    "aumphure_id": "3606",
+    "province_id": "36",
+    "name_en": "Amphoe Chatturat",
+    "name_th": "อำเภอจัตุรัส"
+  },
+  {
+    "id": 332,
+    "aumphure_id": "3607",
+    "province_id": "36",
+    "name_en": "Amphoe Bamnet Narong",
+    "name_th": "อำเภอบำเหน็จณรงค์"
+  },
+  {
+    "id": 333,
+    "aumphure_id": "3608",
+    "province_id": "36",
+    "name_en": "Amphoe Nong Bua Rawe",
+    "name_th": "อำเภอหนองบัวระเหว"
+  },
+  {
+    "id": 334,
+    "aumphure_id": "3609",
+    "province_id": "36",
+    "name_en": "Amphoe Thep Sathit",
+    "name_th": "อำเภอเทพสถิต"
+  },
+  {
+    "id": 335,
+    "aumphure_id": "3610",
+    "province_id": "36",
+    "name_en": "Amphoe Phu Khiao",
+    "name_th": "อำเภอภูเขียว"
+  },
+  {
+    "id": 336,
+    "aumphure_id": "3611",
+    "province_id": "36",
+    "name_en": "Amphoe Ban Thaen",
+    "name_th": "อำเภอบ้านแท่น"
+  },
+  {
+    "id": 337,
+    "aumphure_id": "3612",
+    "province_id": "36",
+    "name_en": "Amphoe Kaeng Khro",
+    "name_th": "อำเภอแก้งคร้อ"
+  },
+  {
+    "id": 338,
+    "aumphure_id": "3613",
+    "province_id": "36",
+    "name_en": "Amphoe Khon San",
+    "name_th": "อำเภอคอนสาร"
+  },
+  {
+    "id": 339,
+    "aumphure_id": "3614",
+    "province_id": "36",
+    "name_en": "Amphoe Phakdi Chumphon",
+    "name_th": "อำเภอภักดีชุมพล"
+  },
+  {
+    "id": 340,
+    "aumphure_id": "3615",
+    "province_id": "36",
+    "name_en": "Amphoe Noen Sa-nga",
+    "name_th": "อำเภอเนินสง่า"
+  },
+  {
+    "id": 341,
+    "aumphure_id": "3616",
+    "province_id": "36",
+    "name_en": "Amphoe Sap Yai",
+    "name_th": "อำเภอซับใหญ่"
+  },
+  {
+    "id": 342,
+    "aumphure_id": "3701",
+    "province_id": "37",
+    "name_en": "Amphoe Mueang Amnat Charoen",
+    "name_th": "อำเภอเมืองอำนาจเจริญ"
+  },
+  {
+    "id": 343,
+    "aumphure_id": "3702",
+    "province_id": "37",
+    "name_en": "Amphoe Chanuman",
+    "name_th": "อำเภอชานุมาน"
+  },
+  {
+    "id": 344,
+    "aumphure_id": "3703",
+    "province_id": "37",
+    "name_en": "Amphoe Pathum Ratchawongsa",
+    "name_th": "อำเภอปทุมราชวงศา"
+  },
+  {
+    "id": 345,
+    "aumphure_id": "3704",
+    "province_id": "37",
+    "name_en": "Amphoe Phana",
+    "name_th": "อำเภอพนา"
+  },
+  {
+    "id": 346,
+    "aumphure_id": "3705",
+    "province_id": "37",
+    "name_en": "Amphoe Senangkhanikhom",
+    "name_th": "อำเภอเสนางคนิคม"
+  },
+  {
+    "id": 347,
+    "aumphure_id": "3706",
+    "province_id": "37",
+    "name_en": "Amphoe Hua Taphan",
+    "name_th": "อำเภอหัวตะพาน"
+  },
+  {
+    "id": 348,
+    "aumphure_id": "3707",
+    "province_id": "37",
+    "name_en": "Amphoe Lue Amnat",
+    "name_th": "อำเภอลืออำนาจ"
+  },
+  {
+    "id": 349,
+    "aumphure_id": "3801",
+    "province_id": "38",
+    "name_en": "Amphoe Mueang Bueng Kan",
+    "name_th": "อำเภอเมืองบึงกาฬ"
+  },
+  {
+    "id": 350,
+    "aumphure_id": "3802",
+    "province_id": "38",
+    "name_en": "Amphoe Phon Charoen",
+    "name_th": "อำเภอพรเจริญ"
+  },
+  {
+    "id": 351,
+    "aumphure_id": "3803",
+    "province_id": "38",
+    "name_en": "Amphoe So Phisai",
+    "name_th": "อำเภอโซ่พิสัย"
+  },
+  {
+    "id": 352,
+    "aumphure_id": "3804",
+    "province_id": "38",
+    "name_en": "Amphoe Seka",
+    "name_th": "อำเภอเซกา"
+  },
+  {
+    "id": 353,
+    "aumphure_id": "3805",
+    "province_id": "38",
+    "name_en": "Amphoe Pak Khat",
+    "name_th": "อำเภอปากคาด"
+  },
+  {
+    "id": 354,
+    "aumphure_id": "3806",
+    "province_id": "38",
+    "name_en": "Amphoe Bueng Khong Long",
+    "name_th": "อำเภอบึงโขงหลง"
+  },
+  {
+    "id": 355,
+    "aumphure_id": "3807",
+    "province_id": "38",
+    "name_en": "Amphoe Si Wilai",
+    "name_th": "อำเภอศรีวิไล"
+  },
+  {
+    "id": 356,
+    "aumphure_id": "3808",
+    "province_id": "38",
+    "name_en": "Amphoe Bung Khla",
+    "name_th": "อำเภอบุ่งคล้า"
+  },
+  {
+    "id": 357,
+    "aumphure_id": "3901",
+    "province_id": "39",
+    "name_en": "Amphoe Mueang Nong Bua Lam Phu",
+    "name_th": "อำเภอเมืองหนองบัวลำภู"
+  },
+  {
+    "id": 358,
+    "aumphure_id": "3902",
+    "province_id": "39",
+    "name_en": "Amphoe Na Klang",
+    "name_th": "อำเภอนากลาง"
+  },
+  {
+    "id": 359,
+    "aumphure_id": "3903",
+    "province_id": "39",
+    "name_en": "Amphoe Non Sang",
+    "name_th": "อำเภอโนนสัง"
+  },
+  {
+    "id": 360,
+    "aumphure_id": "3904",
+    "province_id": "39",
+    "name_en": "Amphoe Si Bun Rueang",
+    "name_th": "อำเภอศรีบุญเรือง"
+  },
+  {
+    "id": 361,
+    "aumphure_id": "3905",
+    "province_id": "39",
+    "name_en": "Amphoe Suwannakhuha",
+    "name_th": "อำเภอสุวรรณคูหา"
+  },
+  {
+    "id": 362,
+    "aumphure_id": "3906",
+    "province_id": "39",
+    "name_en": "Amphoe Na Wang",
+    "name_th": "อำเภอนาวัง"
+  },
+  {
+    "id": 363,
+    "aumphure_id": "4001",
+    "province_id": "40",
+    "name_en": "Amphoe Mueang Khon Kaen",
+    "name_th": "อำเภอเมืองขอนแก่น"
+  },
+  {
+    "id": 364,
+    "aumphure_id": "4002",
+    "province_id": "40",
+    "name_en": "Amphoe Ban Fang",
+    "name_th": "อำเภอบ้านฝาง"
+  },
+  {
+    "id": 365,
+    "aumphure_id": "4003",
+    "province_id": "40",
+    "name_en": "Amphoe Phra Yuen",
+    "name_th": "อำเภอพระยืน"
+  },
+  {
+    "id": 366,
+    "aumphure_id": "4004",
+    "province_id": "40",
+    "name_en": "Amphoe Nong Ruea",
+    "name_th": "อำเภอหนองเรือ"
+  },
+  {
+    "id": 367,
+    "aumphure_id": "4005",
+    "province_id": "40",
+    "name_en": "Amphoe Chum Phae",
+    "name_th": "อำเภอชุมแพ"
+  },
+  {
+    "id": 368,
+    "aumphure_id": "4006",
+    "province_id": "40",
+    "name_en": "Amphoe Si Chomphu",
+    "name_th": "อำเภอสีชมพู"
+  },
+  {
+    "id": 369,
+    "aumphure_id": "4007",
+    "province_id": "40",
+    "name_en": "Amphoe Nam Phong",
+    "name_th": "อำเภอน้ำพอง"
+  },
+  {
+    "id": 370,
+    "aumphure_id": "4008",
+    "province_id": "40",
+    "name_en": "Amphoe Ubolratana",
+    "name_th": "อำเภออุบลรัตน์"
+  },
+  {
+    "id": 371,
+    "aumphure_id": "4009",
+    "province_id": "40",
+    "name_en": "Amphoe Kranuan",
+    "name_th": "อำเภอกระนวน"
+  },
+  {
+    "id": 372,
+    "aumphure_id": "4010",
+    "province_id": "40",
+    "name_en": "Amphoe Ban Phai",
+    "name_th": "อำเภอบ้านไผ่"
+  },
+  {
+    "id": 373,
+    "aumphure_id": "4011",
+    "province_id": "40",
+    "name_en": "Amphoe Pueai Noi",
+    "name_th": "อำเภอเปือยน้อย"
+  },
+  {
+    "id": 374,
+    "aumphure_id": "4012",
+    "province_id": "40",
+    "name_en": "Amphoe Phon",
+    "name_th": "อำเภอพล"
+  },
+  {
+    "id": 375,
+    "aumphure_id": "4013",
+    "province_id": "40",
+    "name_en": "Amphoe Waeng Yai",
+    "name_th": "อำเภอแวงใหญ่"
+  },
+  {
+    "id": 376,
+    "aumphure_id": "4014",
+    "province_id": "40",
+    "name_en": "Amphoe Waeng Noi",
+    "name_th": "อำเภอแวงน้อย"
+  },
+  {
+    "id": 377,
+    "aumphure_id": "4015",
+    "province_id": "40",
+    "name_en": "Amphoe Nong Song Hong",
+    "name_th": "อำเภอหนองสองห้อง"
+  },
+  {
+    "id": 378,
+    "aumphure_id": "4016",
+    "province_id": "40",
+    "name_en": "Amphoe Phu Wiang",
+    "name_th": "อำเภอภูเวียง"
+  },
+  {
+    "id": 379,
+    "aumphure_id": "4017",
+    "province_id": "40",
+    "name_en": "Amphoe Mancha Khiri",
+    "name_th": "อำเภอมัญจาคีรี"
+  },
+  {
+    "id": 380,
+    "aumphure_id": "4018",
+    "province_id": "40",
+    "name_en": "Amphoe Chonnabot",
+    "name_th": "อำเภอชนบท"
+  },
+  {
+    "id": 381,
+    "aumphure_id": "4019",
+    "province_id": "40",
+    "name_en": "Amphoe Khao Suan Kwang",
+    "name_th": "อำเภอเขาสวนกวาง"
+  },
+  {
+    "id": 382,
+    "aumphure_id": "4020",
+    "province_id": "40",
+    "name_en": "Amphoe Phu Pha Man",
+    "name_th": "อำเภอภูผาม่าน"
+  },
+  {
+    "id": 383,
+    "aumphure_id": "4021",
+    "province_id": "40",
+    "name_en": "Amphoe Sam Sung",
+    "name_th": "อำเภอซำสูง"
+  },
+  {
+    "id": 384,
+    "aumphure_id": "4022",
+    "province_id": "40",
+    "name_en": "Amphoe Khok Pho Chai",
+    "name_th": "อำเภอโคกโพธิ์ไชย"
+  },
+  {
+    "id": 385,
+    "aumphure_id": "4023",
+    "province_id": "40",
+    "name_en": "Amphoe Nong Na Kham",
+    "name_th": "อำเภอหนองนาคำ"
+  },
+  {
+    "id": 386,
+    "aumphure_id": "4024",
+    "province_id": "40",
+    "name_en": "Amphoe Ban Haet",
+    "name_th": "อำเภอบ้านแฮด"
+  },
+  {
+    "id": 387,
+    "aumphure_id": "4025",
+    "province_id": "40",
+    "name_en": "Amphoe Non Sila",
+    "name_th": "อำเภอโนนศิลา"
+  },
+  {
+    "id": 388,
+    "aumphure_id": "4026",
+    "province_id": "40",
+    "name_en": "Amphoe Wiang Kao",
+    "name_th": "อำเภอเวียงเก่า"
+  },
+  {
+    "id": 389,
+    "aumphure_id": "4101",
+    "province_id": "41",
+    "name_en": "Amphoe Mueang Udon Thani",
+    "name_th": "อำเภอเมืองอุดรธานี"
+  },
+  {
+    "id": 390,
+    "aumphure_id": "4102",
+    "province_id": "41",
+    "name_en": "Amphoe Kut Chap",
+    "name_th": "อำเภอกุดจับ"
+  },
+  {
+    "id": 391,
+    "aumphure_id": "4103",
+    "province_id": "41",
+    "name_en": "Amphoe Nong Wua So",
+    "name_th": "อำเภอหนองวัวซอ"
+  },
+  {
+    "id": 392,
+    "aumphure_id": "4104",
+    "province_id": "41",
+    "name_en": "Amphoe Kumphawapi",
+    "name_th": "อำเภอกุมภวาปี"
+  },
+  {
+    "id": 393,
+    "aumphure_id": "4105",
+    "province_id": "41",
+    "name_en": "Amphoe Non Sa-at",
+    "name_th": "อำเภอโนนสะอาด"
+  },
+  {
+    "id": 394,
+    "aumphure_id": "4106",
+    "province_id": "41",
+    "name_en": "Amphoe Nong Han",
+    "name_th": "อำเภอหนองหาน"
+  },
+  {
+    "id": 395,
+    "aumphure_id": "4107",
+    "province_id": "41",
+    "name_en": "Amphoe Thung Fon",
+    "name_th": "อำเภอทุ่งฝน"
+  },
+  {
+    "id": 396,
+    "aumphure_id": "4108",
+    "province_id": "41",
+    "name_en": "Amphoe Chai Wan",
+    "name_th": "อำเภอไชยวาน"
+  },
+  {
+    "id": 397,
+    "aumphure_id": "4109",
+    "province_id": "41",
+    "name_en": "Amphoe Si That",
+    "name_th": "อำเภอศรีธาตุ"
+  },
+  {
+    "id": 398,
+    "aumphure_id": "4110",
+    "province_id": "41",
+    "name_en": "Amphoe Wang Sam Mo",
+    "name_th": "อำเภอวังสามหมอ"
+  },
+  {
+    "id": 399,
+    "aumphure_id": "4111",
+    "province_id": "41",
+    "name_en": "Amphoe Ban Dung",
+    "name_th": "อำเภอบ้านดุง"
+  },
+  {
+    "id": 400,
+    "aumphure_id": "4117",
+    "province_id": "41",
+    "name_en": "Amphoe Ban Phue",
+    "name_th": "อำเภอบ้านผือ"
+  },
+  {
+    "id": 401,
+    "aumphure_id": "4118",
+    "province_id": "41",
+    "name_en": "Amphoe Nam Som",
+    "name_th": "อำเภอน้ำโสม"
+  },
+  {
+    "id": 402,
+    "aumphure_id": "4119",
+    "province_id": "41",
+    "name_en": "Amphoe Phen",
+    "name_th": "อำเภอเพ็ญ"
+  },
+  {
+    "id": 403,
+    "aumphure_id": "4120",
+    "province_id": "41",
+    "name_en": "Amphoe Sang Khom",
+    "name_th": "อำเภอสร้างคอม"
+  },
+  {
+    "id": 404,
+    "aumphure_id": "4121",
+    "province_id": "41",
+    "name_en": "Amphoe Nong Saeng",
+    "name_th": "อำเภอหนองแสง"
+  },
+  {
+    "id": 405,
+    "aumphure_id": "4122",
+    "province_id": "41",
+    "name_en": "Amphoe Na Yung",
+    "name_th": "อำเภอนายูง"
+  },
+  {
+    "id": 406,
+    "aumphure_id": "4123",
+    "province_id": "41",
+    "name_en": "Amphoe Phibun Rak",
+    "name_th": "อำเภอพิบูลย์รักษ์"
+  },
+  {
+    "id": 407,
+    "aumphure_id": "4124",
+    "province_id": "41",
+    "name_en": "Amphoe Ku Kaeo",
+    "name_th": "อำเภอกู่แก้ว"
+  },
+  {
+    "id": 408,
+    "aumphure_id": "4125",
+    "province_id": "41",
+    "name_en": "Amphoe Prachak Sinlapakhom",
+    "name_th": "อำเภอประจักษ์ศิลปาคม"
+  },
+  {
+    "id": 409,
+    "aumphure_id": "4201",
+    "province_id": "42",
+    "name_en": "Amphoe Mueang Loei",
+    "name_th": "อำเภอเมืองเลย"
+  },
+  {
+    "id": 410,
+    "aumphure_id": "4202",
+    "province_id": "42",
+    "name_en": "Amphoe Na Duang",
+    "name_th": "อำเภอนาด้วง"
+  },
+  {
+    "id": 411,
+    "aumphure_id": "4203",
+    "province_id": "42",
+    "name_en": "Amphoe Chiang Khan",
+    "name_th": "อำเภอเชียงคาน"
+  },
+  {
+    "id": 412,
+    "aumphure_id": "4204",
+    "province_id": "42",
+    "name_en": "Amphoe Pak Chom",
+    "name_th": "อำเภอปากชม"
+  },
+  {
+    "id": 413,
+    "aumphure_id": "4205",
+    "province_id": "42",
+    "name_en": "Amphoe Dan Sai",
+    "name_th": "อำเภอด่านซ้าย"
+  },
+  {
+    "id": 414,
+    "aumphure_id": "4206",
+    "province_id": "42",
+    "name_en": "Amphoe Na Haeo",
+    "name_th": "อำเภอนาแห้ว"
+  },
+  {
+    "id": 415,
+    "aumphure_id": "4207",
+    "province_id": "42",
+    "name_en": "Amphoe Phu Ruea",
+    "name_th": "อำเภอภูเรือ"
+  },
+  {
+    "id": 416,
+    "aumphure_id": "4208",
+    "province_id": "42",
+    "name_en": "Amphoe Tha Li",
+    "name_th": "อำเภอท่าลี่"
+  },
+  {
+    "id": 417,
+    "aumphure_id": "4209",
+    "province_id": "42",
+    "name_en": "Amphoe Wang Saphung",
+    "name_th": "อำเภอวังสะพุง"
+  },
+  {
+    "id": 418,
+    "aumphure_id": "4210",
+    "province_id": "42",
+    "name_en": "Amphoe Phu Kradueng",
+    "name_th": "อำเภอภูกระดึง"
+  },
+  {
+    "id": 419,
+    "aumphure_id": "4211",
+    "province_id": "42",
+    "name_en": "Amphoe Phu Luang",
+    "name_th": "อำเภอภูหลวง"
+  },
+  {
+    "id": 420,
+    "aumphure_id": "4212",
+    "province_id": "42",
+    "name_en": "Amphoe Pha Khao",
+    "name_th": "อำเภอผาขาว"
+  },
+  {
+    "id": 421,
+    "aumphure_id": "4213",
+    "province_id": "42",
+    "name_en": "Amphoe Erawan",
+    "name_th": "อำเภอเอราวัณ"
+  },
+  {
+    "id": 422,
+    "aumphure_id": "4214",
+    "province_id": "42",
+    "name_en": "Amphoe Nong Hin",
+    "name_th": "อำเภอหนองหิน"
+  },
+  {
+    "id": 423,
+    "aumphure_id": "4301",
+    "province_id": "43",
+    "name_en": "Amphoe Mueang Nong Khai",
+    "name_th": "อำเภอเมืองหนองคาย"
+  },
+  {
+    "id": 424,
+    "aumphure_id": "4302",
+    "province_id": "43",
+    "name_en": "Amphoe Tha Bo",
+    "name_th": "อำเภอท่าบ่อ"
+  },
+  {
+    "id": 425,
+    "aumphure_id": "4305",
+    "province_id": "43",
+    "name_en": "Amphoe Phon Phisai",
+    "name_th": "อำเภอโพนพิสัย"
+  },
+  {
+    "id": 426,
+    "aumphure_id": "4307",
+    "province_id": "43",
+    "name_en": "Amphoe Si Chiang Mai",
+    "name_th": "อำเภอศรีเชียงใหม่"
+  },
+  {
+    "id": 427,
+    "aumphure_id": "4308",
+    "province_id": "43",
+    "name_en": "Amphoe Sangkhom",
+    "name_th": "อำเภอสังคม"
+  },
+  {
+    "id": 428,
+    "aumphure_id": "4314",
+    "province_id": "43",
+    "name_en": "Amphoe Sakhrai",
+    "name_th": "อำเภอสระใคร"
+  },
+  {
+    "id": 429,
+    "aumphure_id": "4315",
+    "province_id": "43",
+    "name_en": "Amphoe Fao Rai",
+    "name_th": "อำเภอเฝ้าไร่"
+  },
+  {
+    "id": 430,
+    "aumphure_id": "4316",
+    "province_id": "43",
+    "name_en": "Amphoe Rattanawapi",
+    "name_th": "อำเภอรัตนวาปี"
+  },
+  {
+    "id": 431,
+    "aumphure_id": "4317",
+    "province_id": "43",
+    "name_en": "Amphoe Pho Tak",
+    "name_th": "อำเภอโพธิ์ตาก"
+  },
+  {
+    "id": 432,
+    "aumphure_id": "4401",
+    "province_id": "44",
+    "name_en": "Amphoe Mueang Maha Sarakham",
+    "name_th": "อำเภอเมืองมหาสารคาม"
+  },
+  {
+    "id": 433,
+    "aumphure_id": "4402",
+    "province_id": "44",
+    "name_en": "Amphoe Kae Dam",
+    "name_th": "อำเภอแกดำ"
+  },
+  {
+    "id": 434,
+    "aumphure_id": "4403",
+    "province_id": "44",
+    "name_en": "Amphoe Kosum Phisai",
+    "name_th": "อำเภอโกสุมพิสัย"
+  },
+  {
+    "id": 435,
+    "aumphure_id": "4404",
+    "province_id": "44",
+    "name_en": "Amphoe Kantharawichai",
+    "name_th": "อำเภอกันทรวิชัย"
+  },
+  {
+    "id": 436,
+    "aumphure_id": "4405",
+    "province_id": "44",
+    "name_en": "Amphoe Chiang Yuen",
+    "name_th": "อำเภอเชียงยืน"
+  },
+  {
+    "id": 437,
+    "aumphure_id": "4406",
+    "province_id": "44",
+    "name_en": "Amphoe Borabue",
+    "name_th": "อำเภอบรบือ"
+  },
+  {
+    "id": 438,
+    "aumphure_id": "4407",
+    "province_id": "44",
+    "name_en": "Amphoe Na Chueak",
+    "name_th": "อำเภอนาเชือก"
+  },
+  {
+    "id": 439,
+    "aumphure_id": "4408",
+    "province_id": "44",
+    "name_en": "Amphoe Phayakkhaphum Phisai",
+    "name_th": "อำเภอพยัคฆภูมิพิสัย"
+  },
+  {
+    "id": 440,
+    "aumphure_id": "4409",
+    "province_id": "44",
+    "name_en": "Amphoe Wapi Pathum",
+    "name_th": "อำเภอวาปีปทุม"
+  },
+  {
+    "id": 441,
+    "aumphure_id": "4410",
+    "province_id": "44",
+    "name_en": "Amphoe Na Dun",
+    "name_th": "อำเภอนาดูน"
+  },
+  {
+    "id": 442,
+    "aumphure_id": "4411",
+    "province_id": "44",
+    "name_en": "Amphoe Yang Si Surat",
+    "name_th": "อำเภอยางสีสุราช"
+  },
+  {
+    "id": 443,
+    "aumphure_id": "4412",
+    "province_id": "44",
+    "name_en": "Amphoe Kut Rang",
+    "name_th": "อำเภอกุดรัง"
+  },
+  {
+    "id": 444,
+    "aumphure_id": "4413",
+    "province_id": "44",
+    "name_en": "Amphoe Chuen Chom",
+    "name_th": "อำเภอชื่นชม"
+  },
+  {
+    "id": 445,
+    "aumphure_id": "4501",
+    "province_id": "45",
+    "name_en": "Amphoe Mueang Roi Et",
+    "name_th": "อำเภอเมืองร้อยเอ็ด"
+  },
+  {
+    "id": 446,
+    "aumphure_id": "4502",
+    "province_id": "45",
+    "name_en": "Amphoe Kaset Wisai",
+    "name_th": "อำเภอเกษตรวิสัย"
+  },
+  {
+    "id": 447,
+    "aumphure_id": "4503",
+    "province_id": "45",
+    "name_en": "Amphoe Pathum Rat",
+    "name_th": "อำเภอปทุมรัตต์"
+  },
+  {
+    "id": 448,
+    "aumphure_id": "4504",
+    "province_id": "45",
+    "name_en": "Amphoe Chaturaphak Phiman",
+    "name_th": "อำเภอจตุรพักตรพิมาน"
+  },
+  {
+    "id": 449,
+    "aumphure_id": "4505",
+    "province_id": "45",
+    "name_en": "Amphoe Thawat Buri",
+    "name_th": "อำเภอธวัชบุรี"
+  },
+  {
+    "id": 450,
+    "aumphure_id": "4506",
+    "province_id": "45",
+    "name_en": "Amphoe Phanom Phrai",
+    "name_th": "อำเภอพนมไพร"
+  },
+  {
+    "id": 451,
+    "aumphure_id": "4507",
+    "province_id": "45",
+    "name_en": "Amphoe Phon Thong",
+    "name_th": "อำเภอโพนทอง"
+  },
+  {
+    "id": 452,
+    "aumphure_id": "4508",
+    "province_id": "45",
+    "name_en": "Amphoe Pho Chai",
+    "name_th": "อำเภอโพธิ์ชัย"
+  },
+  {
+    "id": 453,
+    "aumphure_id": "4509",
+    "province_id": "45",
+    "name_en": "Amphoe Nong Phok",
+    "name_th": "อำเภอหนองพอก"
+  },
+  {
+    "id": 454,
+    "aumphure_id": "4510",
+    "province_id": "45",
+    "name_en": "Amphoe Selaphum",
+    "name_th": "อำเภอเสลภูมิ"
+  },
+  {
+    "id": 455,
+    "aumphure_id": "4511",
+    "province_id": "45",
+    "name_en": "Amphoe Suwannaphum",
+    "name_th": "อำเภอสุวรรณภูมิ"
+  },
+  {
+    "id": 456,
+    "aumphure_id": "4512",
+    "province_id": "45",
+    "name_en": "Amphoe Mueang Suang",
+    "name_th": "อำเภอเมืองสรวง"
+  },
+  {
+    "id": 457,
+    "aumphure_id": "4513",
+    "province_id": "45",
+    "name_en": "Amphoe Phon Sai",
+    "name_th": "อำเภอโพนทราย"
+  },
+  {
+    "id": 458,
+    "aumphure_id": "4514",
+    "province_id": "45",
+    "name_en": "Amphoe At Samat",
+    "name_th": "อำเภออาจสามารถ"
+  },
+  {
+    "id": 459,
+    "aumphure_id": "4515",
+    "province_id": "45",
+    "name_en": "Amphoe Moei Wadi",
+    "name_th": "อำเภอเมยวดี"
+  },
+  {
+    "id": 460,
+    "aumphure_id": "4516",
+    "province_id": "45",
+    "name_en": "Amphoe Si Somdet",
+    "name_th": "อำเภอศรีสมเด็จ"
+  },
+  {
+    "id": 461,
+    "aumphure_id": "4517",
+    "province_id": "45",
+    "name_en": "Amphoe Changhan",
+    "name_th": "อำเภอจังหาร"
+  },
+  {
+    "id": 462,
+    "aumphure_id": "4518",
+    "province_id": "45",
+    "name_en": "Amphoe Chiang Khwan",
+    "name_th": "อำเภอเชียงขวัญ"
+  },
+  {
+    "id": 463,
+    "aumphure_id": "4519",
+    "province_id": "45",
+    "name_en": "Amphoe Nong Hi",
+    "name_th": "อำเภอหนองฮี"
+  },
+  {
+    "id": 464,
+    "aumphure_id": "4520",
+    "province_id": "45",
+    "name_en": "Amphoe Thung Khao Luang",
+    "name_th": "อำเภอทุ่งเขาหลวง"
+  },
+  {
+    "id": 465,
+    "aumphure_id": "4601",
+    "province_id": "46",
+    "name_en": "Amphoe Mueang Kalasin",
+    "name_th": "อำเภอเมืองกาฬสินธุ์"
+  },
+  {
+    "id": 466,
+    "aumphure_id": "4602",
+    "province_id": "46",
+    "name_en": "Amphoe Na Mon",
+    "name_th": "อำเภอนามน"
+  },
+  {
+    "id": 467,
+    "aumphure_id": "4603",
+    "province_id": "46",
+    "name_en": "Amphoe Kamalasai",
+    "name_th": "อำเภอกมลาไสย"
+  },
+  {
+    "id": 468,
+    "aumphure_id": "4604",
+    "province_id": "46",
+    "name_en": "Amphoe Rong Kham",
+    "name_th": "อำเภอร่องคำ"
+  },
+  {
+    "id": 469,
+    "aumphure_id": "4605",
+    "province_id": "46",
+    "name_en": "Amphoe Kuchinarai",
+    "name_th": "อำเภอกุฉินารายณ์"
+  },
+  {
+    "id": 470,
+    "aumphure_id": "4606",
+    "province_id": "46",
+    "name_en": "Amphoe Khao Wong",
+    "name_th": "อำเภอเขาวง"
+  },
+  {
+    "id": 471,
+    "aumphure_id": "4607",
+    "province_id": "46",
+    "name_en": "Amphoe Yang Talat",
+    "name_th": "อำเภอยางตลาด"
+  },
+  {
+    "id": 472,
+    "aumphure_id": "4608",
+    "province_id": "46",
+    "name_en": "Amphoe Huai Mek",
+    "name_th": "อำเภอห้วยเม็ก"
+  },
+  {
+    "id": 473,
+    "aumphure_id": "4609",
+    "province_id": "46",
+    "name_en": "Amphoe Sahatsakhan",
+    "name_th": "อำเภอสหัสขันธ์"
+  },
+  {
+    "id": 474,
+    "aumphure_id": "4610",
+    "province_id": "46",
+    "name_en": "Amphoe Kham Muang",
+    "name_th": "อำเภอคำม่วง"
+  },
+  {
+    "id": 475,
+    "aumphure_id": "4611",
+    "province_id": "46",
+    "name_en": "Amphoe Tha Khantho",
+    "name_th": "อำเภอท่าคันโท"
+  },
+  {
+    "id": 476,
+    "aumphure_id": "4612",
+    "province_id": "46",
+    "name_en": "Amphoe Nong Kung Si",
+    "name_th": "อำเภอหนองกุงศรี"
+  },
+  {
+    "id": 477,
+    "aumphure_id": "4613",
+    "province_id": "46",
+    "name_en": "Amphoe Somdet",
+    "name_th": "อำเภอสมเด็จ"
+  },
+  {
+    "id": 478,
+    "aumphure_id": "4614",
+    "province_id": "46",
+    "name_en": "Amphoe Huai Phueng",
+    "name_th": "อำเภอห้วยผึ้ง"
+  },
+  {
+    "id": 479,
+    "aumphure_id": "4615",
+    "province_id": "46",
+    "name_en": "Amphoe Sam Chai",
+    "name_th": "อำเภอสามชัย"
+  },
+  {
+    "id": 480,
+    "aumphure_id": "4616",
+    "province_id": "46",
+    "name_en": "Amphoe Na Khu",
+    "name_th": "อำเภอนาคู"
+  },
+  {
+    "id": 481,
+    "aumphure_id": "4617",
+    "province_id": "46",
+    "name_en": "Amphoe Don Chan",
+    "name_th": "อำเภอดอนจาน"
+  },
+  {
+    "id": 482,
+    "aumphure_id": "4618",
+    "province_id": "46",
+    "name_en": "Amphoe Khong Chai",
+    "name_th": "อำเภอฆ้องชัย"
+  },
+  {
+    "id": 483,
+    "aumphure_id": "4701",
+    "province_id": "47",
+    "name_en": "Amphoe Mueang Sakon Nakhon",
+    "name_th": "อำเภอเมืองสกลนคร"
+  },
+  {
+    "id": 484,
+    "aumphure_id": "4702",
+    "province_id": "47",
+    "name_en": "Amphoe Kusuman",
+    "name_th": "อำเภอกุสุมาลย์"
+  },
+  {
+    "id": 485,
+    "aumphure_id": "4703",
+    "province_id": "47",
+    "name_en": "Amphoe Kut Bak",
+    "name_th": "อำเภอกุดบาก"
+  },
+  {
+    "id": 486,
+    "aumphure_id": "4704",
+    "province_id": "47",
+    "name_en": "Amphoe Phanna Nikhom",
+    "name_th": "อำเภอพรรณานิคม"
+  },
+  {
+    "id": 487,
+    "aumphure_id": "4705",
+    "province_id": "47",
+    "name_en": "Amphoe Phang Khon",
+    "name_th": "อำเภอพังโคน"
+  },
+  {
+    "id": 488,
+    "aumphure_id": "4706",
+    "province_id": "47",
+    "name_en": "Amphoe Waritchaphum",
+    "name_th": "อำเภอวาริชภูมิ"
+  },
+  {
+    "id": 489,
+    "aumphure_id": "4707",
+    "province_id": "47",
+    "name_en": "Amphoe Nikhom Nam Un",
+    "name_th": "อำเภอนิคมน้ำอูน"
+  },
+  {
+    "id": 490,
+    "aumphure_id": "4708",
+    "province_id": "47",
+    "name_en": "Amphoe Wanon Niwat",
+    "name_th": "อำเภอวานรนิวาส"
+  },
+  {
+    "id": 491,
+    "aumphure_id": "4709",
+    "province_id": "47",
+    "name_en": "Amphoe Kham Ta Kla",
+    "name_th": "อำเภอคำตากล้า"
+  },
+  {
+    "id": 492,
+    "aumphure_id": "4710",
+    "province_id": "47",
+    "name_en": "Amphoe Ban Muang",
+    "name_th": "อำเภอบ้านม่วง"
+  },
+  {
+    "id": 493,
+    "aumphure_id": "4711",
+    "province_id": "47",
+    "name_en": "Amphoe Akat Amnuai",
+    "name_th": "อำเภออากาศอำนวย"
+  },
+  {
+    "id": 494,
+    "aumphure_id": "4712",
+    "province_id": "47",
+    "name_en": "Amphoe Sawang Daen Din",
+    "name_th": "อำเภอสว่างแดนดิน"
+  },
+  {
+    "id": 495,
+    "aumphure_id": "4713",
+    "province_id": "47",
+    "name_en": "Amphoe Song Dao",
+    "name_th": "อำเภอส่องดาว"
+  },
+  {
+    "id": 496,
+    "aumphure_id": "4714",
+    "province_id": "47",
+    "name_en": "Amphoe Tao Ngoi",
+    "name_th": "อำเภอเต่างอย"
+  },
+  {
+    "id": 497,
+    "aumphure_id": "4715",
+    "province_id": "47",
+    "name_en": "Amphoe Khok Si Suphan",
+    "name_th": "อำเภอโคกศรีสุพรรณ"
+  },
+  {
+    "id": 498,
+    "aumphure_id": "4716",
+    "province_id": "47",
+    "name_en": "Amphoe Charoen Sin",
+    "name_th": "อำเภอเจริญศิลป์"
+  },
+  {
+    "id": 499,
+    "aumphure_id": "4717",
+    "province_id": "47",
+    "name_en": "Amphoe Phon Na Kaeo",
+    "name_th": "อำเภอโพนนาแก้ว"
+  },
+  {
+    "id": 500,
+    "aumphure_id": "4718",
+    "province_id": "47",
+    "name_en": "Amphoe Phu Phan",
+    "name_th": "อำเภอภูพาน"
+  },
+  {
+    "id": 501,
+    "aumphure_id": "4801",
+    "province_id": "48",
+    "name_en": "Amphoe Mueang Nakhon Phanom",
+    "name_th": "อำเภอเมืองนครพนม"
+  },
+  {
+    "id": 502,
+    "aumphure_id": "4802",
+    "province_id": "48",
+    "name_en": "Amphoe Pla Pak",
+    "name_th": "อำเภอปลาปาก"
+  },
+  {
+    "id": 503,
+    "aumphure_id": "4803",
+    "province_id": "48",
+    "name_en": "Amphoe Tha Uthen",
+    "name_th": "อำเภอท่าอุเทน"
+  },
+  {
+    "id": 504,
+    "aumphure_id": "4804",
+    "province_id": "48",
+    "name_en": "Amphoe Ban Phaeng",
+    "name_th": "อำเภอบ้านแพง"
+  },
+  {
+    "id": 505,
+    "aumphure_id": "4805",
+    "province_id": "48",
+    "name_en": "Amphoe That Phanom",
+    "name_th": "อำเภอธาตุพนม"
+  },
+  {
+    "id": 506,
+    "aumphure_id": "4806",
+    "province_id": "48",
+    "name_en": "Amphoe Renu Nakhon",
+    "name_th": "อำเภอเรณูนคร"
+  },
+  {
+    "id": 507,
+    "aumphure_id": "4807",
+    "province_id": "48",
+    "name_en": "Amphoe Na Kae",
+    "name_th": "อำเภอนาแก"
+  },
+  {
+    "id": 508,
+    "aumphure_id": "4808",
+    "province_id": "48",
+    "name_en": "Amphoe Si Songkhram",
+    "name_th": "อำเภอศรีสงคราม"
+  },
+  {
+    "id": 509,
+    "aumphure_id": "4809",
+    "province_id": "48",
+    "name_en": "Amphoe Na Wa",
+    "name_th": "อำเภอนาหว้า"
+  },
+  {
+    "id": 510,
+    "aumphure_id": "4810",
+    "province_id": "48",
+    "name_en": "Amphoe Phon Sawan",
+    "name_th": "อำเภอโพนสวรรค์"
+  },
+  {
+    "id": 511,
+    "aumphure_id": "4811",
+    "province_id": "48",
+    "name_en": "Amphoe Na Thom",
+    "name_th": "อำเภอนาทม"
+  },
+  {
+    "id": 512,
+    "aumphure_id": "4812",
+    "province_id": "48",
+    "name_en": "Amphoe Wang Yang",
+    "name_th": "อำเภอวังยาง"
+  },
+  {
+    "id": 513,
+    "aumphure_id": "4901",
+    "province_id": "49",
+    "name_en": "Amphoe Mueang Mukdahan",
+    "name_th": "อำเภอเมืองมุกดาหาร"
+  },
+  {
+    "id": 514,
+    "aumphure_id": "4902",
+    "province_id": "49",
+    "name_en": "Amphoe Nikhom Kham Soi",
+    "name_th": "อำเภอนิคมคำสร้อย"
+  },
+  {
+    "id": 515,
+    "aumphure_id": "4903",
+    "province_id": "49",
+    "name_en": "Amphoe Don Tan",
+    "name_th": "อำเภอดอนตาล"
+  },
+  {
+    "id": 516,
+    "aumphure_id": "4904",
+    "province_id": "49",
+    "name_en": "Amphoe Dong Luang",
+    "name_th": "อำเภอดงหลวง"
+  },
+  {
+    "id": 517,
+    "aumphure_id": "4905",
+    "province_id": "49",
+    "name_en": "Amphoe Khamcha-i",
+    "name_th": "อำเภอคำชะอี"
+  },
+  {
+    "id": 518,
+    "aumphure_id": "4906",
+    "province_id": "49",
+    "name_en": "Amphoe Wan Yai",
+    "name_th": "อำเภอหว้านใหญ่"
+  },
+  {
+    "id": 519,
+    "aumphure_id": "4907",
+    "province_id": "49",
+    "name_en": "Amphoe Nong Sung",
+    "name_th": "อำเภอหนองสูง"
+  },
+  {
+    "id": 520,
+    "aumphure_id": "5001",
+    "province_id": "50",
+    "name_en": "Amphoe Mueang Chiang Mai",
+    "name_th": "อำเภอเมืองเชียงใหม่"
+  },
+  {
+    "id": 521,
+    "aumphure_id": "5002",
+    "province_id": "50",
+    "name_en": "Amphoe Chom Thong",
+    "name_th": "อำเภอจอมทอง"
+  },
+  {
+    "id": 522,
+    "aumphure_id": "5003",
+    "province_id": "50",
+    "name_en": "Amphoe Mae Chaem",
+    "name_th": "อำเภอแม่แจ่ม"
+  },
+  {
+    "id": 523,
+    "aumphure_id": "5004",
+    "province_id": "50",
+    "name_en": "Amphoe Chiang Dao",
+    "name_th": "อำเภอเชียงดาว"
+  },
+  {
+    "id": 524,
+    "aumphure_id": "5005",
+    "province_id": "50",
+    "name_en": "Amphoe Doi Saket",
+    "name_th": "อำเภอดอยสะเก็ด"
+  },
+  {
+    "id": 525,
+    "aumphure_id": "5006",
+    "province_id": "50",
+    "name_en": "Amphoe Mae Taeng",
+    "name_th": "อำเภอแม่แตง"
+  },
+  {
+    "id": 526,
+    "aumphure_id": "5007",
+    "province_id": "50",
+    "name_en": "Amphoe Mae Rim",
+    "name_th": "อำเภอแม่ริม"
+  },
+  {
+    "id": 527,
+    "aumphure_id": "5008",
+    "province_id": "50",
+    "name_en": "Amphoe Samoeng",
+    "name_th": "อำเภอสะเมิง"
+  },
+  {
+    "id": 528,
+    "aumphure_id": "5009",
+    "province_id": "50",
+    "name_en": "Amphoe Fang",
+    "name_th": "อำเภอฝาง"
+  },
+  {
+    "id": 529,
+    "aumphure_id": "5010",
+    "province_id": "50",
+    "name_en": "Amphoe Mae Ai",
+    "name_th": "อำเภอแม่อาย"
+  },
+  {
+    "id": 530,
+    "aumphure_id": "5011",
+    "province_id": "50",
+    "name_en": "Amphoe Phrao",
+    "name_th": "อำเภอพร้าว"
+  },
+  {
+    "id": 531,
+    "aumphure_id": "5012",
+    "province_id": "50",
+    "name_en": "Amphoe San Pa Tong",
+    "name_th": "อำเภอสันป่าตอง"
+  },
+  {
+    "id": 532,
+    "aumphure_id": "5013",
+    "province_id": "50",
+    "name_en": "Amphoe San Kamphaeng",
+    "name_th": "อำเภอสันกำแพง"
+  },
+  {
+    "id": 533,
+    "aumphure_id": "5014",
+    "province_id": "50",
+    "name_en": "Amphoe San Sai",
+    "name_th": "อำเภอสันทราย"
+  },
+  {
+    "id": 534,
+    "aumphure_id": "5015",
+    "province_id": "50",
+    "name_en": "Amphoe Hang Dong",
+    "name_th": "อำเภอหางดง"
+  },
+  {
+    "id": 535,
+    "aumphure_id": "5016",
+    "province_id": "50",
+    "name_en": "Amphoe Hot",
+    "name_th": "อำเภอฮอด"
+  },
+  {
+    "id": 536,
+    "aumphure_id": "5017",
+    "province_id": "50",
+    "name_en": "Amphoe Doi Tao",
+    "name_th": "อำเภอดอยเต่า"
+  },
+  {
+    "id": 537,
+    "aumphure_id": "5018",
+    "province_id": "50",
+    "name_en": "Amphoe Omkoi",
+    "name_th": "อำเภออมก๋อย"
+  },
+  {
+    "id": 538,
+    "aumphure_id": "5019",
+    "province_id": "50",
+    "name_en": "Amphoe Saraphi",
+    "name_th": "อำเภอสารภี"
+  },
+  {
+    "id": 539,
+    "aumphure_id": "5020",
+    "province_id": "50",
+    "name_en": "Amphoe Wiang Haeng",
+    "name_th": "อำเภอเวียงแหง"
+  },
+  {
+    "id": 540,
+    "aumphure_id": "5021",
+    "province_id": "50",
+    "name_en": "Amphoe Chai Prakan",
+    "name_th": "อำเภอไชยปราการ"
+  },
+  {
+    "id": 541,
+    "aumphure_id": "5022",
+    "province_id": "50",
+    "name_en": "Amphoe Mae Wang",
+    "name_th": "อำเภอแม่วาง"
+  },
+  {
+    "id": 542,
+    "aumphure_id": "5023",
+    "province_id": "50",
+    "name_en": "Amphoe Mae On",
+    "name_th": "อำเภอแม่ออน"
+  },
+  {
+    "id": 543,
+    "aumphure_id": "5024",
+    "province_id": "50",
+    "name_en": "Amphoe Doi Lo",
+    "name_th": "อำเภอดอยหล่อ"
+  },
+  {
+    "id": 544,
+    "aumphure_id": "5025",
+    "province_id": "50",
+    "name_en": "Amphoe Galayani Vadhana",
+    "name_th": "อำเภอกัลยาณิวัฒนา"
+  },
+  {
+    "id": 545,
+    "aumphure_id": "5101",
+    "province_id": "51",
+    "name_en": "Amphoe Mueang Lamphun",
+    "name_th": "อำเภอเมืองลำพูน"
+  },
+  {
+    "id": 546,
+    "aumphure_id": "5102",
+    "province_id": "51",
+    "name_en": "Amphoe Mae Tha",
+    "name_th": "อำเภอแม่ทา"
+  },
+  {
+    "id": 547,
+    "aumphure_id": "5103",
+    "province_id": "51",
+    "name_en": "Amphoe Ban Hong",
+    "name_th": "อำเภอบ้านโฮ่ง"
+  },
+  {
+    "id": 548,
+    "aumphure_id": "5104",
+    "province_id": "51",
+    "name_en": "Amphoe Li",
+    "name_th": "อำเภอลี้"
+  },
+  {
+    "id": 549,
+    "aumphure_id": "5105",
+    "province_id": "51",
+    "name_en": "Amphoe Thung Hua Chang",
+    "name_th": "อำเภอทุ่งหัวช้าง"
+  },
+  {
+    "id": 550,
+    "aumphure_id": "5106",
+    "province_id": "51",
+    "name_en": "Amphoe Pa Sang",
+    "name_th": "อำเภอป่าซาง"
+  },
+  {
+    "id": 551,
+    "aumphure_id": "5107",
+    "province_id": "51",
+    "name_en": "Amphoe Ban Thi",
+    "name_th": "อำเภอบ้านธิ"
+  },
+  {
+    "id": 552,
+    "aumphure_id": "5108",
+    "province_id": "51",
+    "name_en": "Amphoe Wiang Nong Long",
+    "name_th": "อำเภอเวียงหนองล่อง"
+  },
+  {
+    "id": 553,
+    "aumphure_id": "5201",
+    "province_id": "52",
+    "name_en": "Amphoe Mueang Lampang",
+    "name_th": "อำเภอเมืองลำปาง"
+  },
+  {
+    "id": 554,
+    "aumphure_id": "5202",
+    "province_id": "52",
+    "name_en": "Amphoe Mae Mo",
+    "name_th": "อำเภอแม่เมาะ"
+  },
+  {
+    "id": 555,
+    "aumphure_id": "5203",
+    "province_id": "52",
+    "name_en": "Amphoe Ko Kha",
+    "name_th": "อำเภอเกาะคา"
+  },
+  {
+    "id": 556,
+    "aumphure_id": "5204",
+    "province_id": "52",
+    "name_en": "Amphoe Soem Ngam",
+    "name_th": "อำเภอเสริมงาม"
+  },
+  {
+    "id": 557,
+    "aumphure_id": "5205",
+    "province_id": "52",
+    "name_en": "Amphoe Ngao",
+    "name_th": "อำเภองาว"
+  },
+  {
+    "id": 558,
+    "aumphure_id": "5206",
+    "province_id": "52",
+    "name_en": "Amphoe Chae Hom",
+    "name_th": "อำเภอแจ้ห่ม"
+  },
+  {
+    "id": 559,
+    "aumphure_id": "5207",
+    "province_id": "52",
+    "name_en": "Amphoe Wang Nuea",
+    "name_th": "อำเภอวังเหนือ"
+  },
+  {
+    "id": 560,
+    "aumphure_id": "5208",
+    "province_id": "52",
+    "name_en": "Amphoe Thoen",
+    "name_th": "อำเภอเถิน"
+  },
+  {
+    "id": 561,
+    "aumphure_id": "5209",
+    "province_id": "52",
+    "name_en": "Amphoe Mae Phrik",
+    "name_th": "อำเภอแม่พริก"
+  },
+  {
+    "id": 562,
+    "aumphure_id": "5210",
+    "province_id": "52",
+    "name_en": "Amphoe Mae Tha",
+    "name_th": "อำเภอแม่ทะ"
+  },
+  {
+    "id": 563,
+    "aumphure_id": "5211",
+    "province_id": "52",
+    "name_en": "Amphoe Sop Prap",
+    "name_th": "อำเภอสบปราบ"
+  },
+  {
+    "id": 564,
+    "aumphure_id": "5212",
+    "province_id": "52",
+    "name_en": "Amphoe Hang Chat",
+    "name_th": "อำเภอห้างฉัตร"
+  },
+  {
+    "id": 565,
+    "aumphure_id": "5213",
+    "province_id": "52",
+    "name_en": "Amphoe Mueang Pan",
+    "name_th": "อำเภอเมืองปาน"
+  },
+  {
+    "id": 566,
+    "aumphure_id": "5301",
+    "province_id": "53",
+    "name_en": "Amphoe Mueang Uttaradit",
+    "name_th": "อำเภอเมืองอุตรดิตถ์"
+  },
+  {
+    "id": 567,
+    "aumphure_id": "5302",
+    "province_id": "53",
+    "name_en": "Amphoe Tron",
+    "name_th": "อำเภอตรอน"
+  },
+  {
+    "id": 568,
+    "aumphure_id": "5303",
+    "province_id": "53",
+    "name_en": "Amphoe Tha Pla",
+    "name_th": "อำเภอท่าปลา"
+  },
+  {
+    "id": 569,
+    "aumphure_id": "5304",
+    "province_id": "53",
+    "name_en": "Amphoe Nam Pat",
+    "name_th": "อำเภอน้ำปาด"
+  },
+  {
+    "id": 570,
+    "aumphure_id": "5305",
+    "province_id": "53",
+    "name_en": "Amphoe Fak Tha",
+    "name_th": "อำเภอฟากท่า"
+  },
+  {
+    "id": 571,
+    "aumphure_id": "5306",
+    "province_id": "53",
+    "name_en": "Amphoe Ban Khok",
+    "name_th": "อำเภอบ้านโคก"
+  },
+  {
+    "id": 572,
+    "aumphure_id": "5307",
+    "province_id": "53",
+    "name_en": "Amphoe Phichai",
+    "name_th": "อำเภอพิชัย"
+  },
+  {
+    "id": 573,
+    "aumphure_id": "5308",
+    "province_id": "53",
+    "name_en": "Amphoe Laplae",
+    "name_th": "อำเภอลับแล"
+  },
+  {
+    "id": 574,
+    "aumphure_id": "5309",
+    "province_id": "53",
+    "name_en": "Amphoe Thong Saen Khan",
+    "name_th": "อำเภอทองแสนขัน"
+  },
+  {
+    "id": 575,
+    "aumphure_id": "5401",
+    "province_id": "54",
+    "name_en": "Amphoe Mueang Phrae",
+    "name_th": "อำเภอเมืองแพร่"
+  },
+  {
+    "id": 576,
+    "aumphure_id": "5402",
+    "province_id": "54",
+    "name_en": "Amphoe Rong Kwang",
+    "name_th": "อำเภอร้องกวาง"
+  },
+  {
+    "id": 577,
+    "aumphure_id": "5403",
+    "province_id": "54",
+    "name_en": "Amphoe Long",
+    "name_th": "อำเภอลอง"
+  },
+  {
+    "id": 578,
+    "aumphure_id": "5404",
+    "province_id": "54",
+    "name_en": "Amphoe Sung Men",
+    "name_th": "อำเภอสูงเม่น"
+  },
+  {
+    "id": 579,
+    "aumphure_id": "5405",
+    "province_id": "54",
+    "name_en": "Amphoe Den Chai",
+    "name_th": "อำเภอเด่นชัย"
+  },
+  {
+    "id": 580,
+    "aumphure_id": "5406",
+    "province_id": "54",
+    "name_en": "Amphoe Song",
+    "name_th": "อำเภอสอง"
+  },
+  {
+    "id": 581,
+    "aumphure_id": "5407",
+    "province_id": "54",
+    "name_en": "Amphoe Wang Chin",
+    "name_th": "อำเภอวังชิ้น"
+  },
+  {
+    "id": 582,
+    "aumphure_id": "5408",
+    "province_id": "54",
+    "name_en": "Amphoe Nong Muang Khai",
+    "name_th": "อำเภอหนองม่วงไข่"
+  },
+  {
+    "id": 583,
+    "aumphure_id": "5501",
+    "province_id": "55",
+    "name_en": "Amphoe Mueang Nan",
+    "name_th": "อำเภอเมืองน่าน"
+  },
+  {
+    "id": 584,
+    "aumphure_id": "5502",
+    "province_id": "55",
+    "name_en": "Amphoe Mae Charim",
+    "name_th": "อำเภอแม่จริม"
+  },
+  {
+    "id": 585,
+    "aumphure_id": "5503",
+    "province_id": "55",
+    "name_en": "Amphoe Ban Luang",
+    "name_th": "อำเภอบ้านหลวง"
+  },
+  {
+    "id": 586,
+    "aumphure_id": "5504",
+    "province_id": "55",
+    "name_en": "Amphoe Na Noi",
+    "name_th": "อำเภอนาน้อย"
+  },
+  {
+    "id": 587,
+    "aumphure_id": "5505",
+    "province_id": "55",
+    "name_en": "Amphoe Pua",
+    "name_th": "อำเภอปัว"
+  },
+  {
+    "id": 588,
+    "aumphure_id": "5506",
+    "province_id": "55",
+    "name_en": "Amphoe Tha Wang Pha",
+    "name_th": "อำเภอท่าวังผา"
+  },
+  {
+    "id": 589,
+    "aumphure_id": "5507",
+    "province_id": "55",
+    "name_en": "Amphoe Wiang Sa",
+    "name_th": "อำเภอเวียงสา"
+  },
+  {
+    "id": 590,
+    "aumphure_id": "5508",
+    "province_id": "55",
+    "name_en": "Amphoe Thung Chang",
+    "name_th": "อำเภอทุ่งช้าง"
+  },
+  {
+    "id": 591,
+    "aumphure_id": "5509",
+    "province_id": "55",
+    "name_en": "Amphoe Chiang Klang",
+    "name_th": "อำเภอเชียงกลาง"
+  },
+  {
+    "id": 592,
+    "aumphure_id": "5510",
+    "province_id": "55",
+    "name_en": "Amphoe Na Muen",
+    "name_th": "อำเภอนาหมื่น"
+  },
+  {
+    "id": 593,
+    "aumphure_id": "5511",
+    "province_id": "55",
+    "name_en": "Amphoe Santi Suk",
+    "name_th": "อำเภอสันติสุข"
+  },
+  {
+    "id": 594,
+    "aumphure_id": "5512",
+    "province_id": "55",
+    "name_en": "Amphoe Bo Kluea",
+    "name_th": "อำเภอบ่อเกลือ"
+  },
+  {
+    "id": 595,
+    "aumphure_id": "5513",
+    "province_id": "55",
+    "name_en": "Amphoe Song Khwae",
+    "name_th": "อำเภอสองแคว"
+  },
+  {
+    "id": 596,
+    "aumphure_id": "5514",
+    "province_id": "55",
+    "name_en": "Amphoe Phu Phiang",
+    "name_th": "อำเภอภูเพียง"
+  },
+  {
+    "id": 597,
+    "aumphure_id": "5515",
+    "province_id": "55",
+    "name_en": "Amphoe Chaloem Phra Kiat",
+    "name_th": "อำเภอเฉลิมพระเกียรติ"
+  },
+  {
+    "id": 598,
+    "aumphure_id": "5601",
+    "province_id": "56",
+    "name_en": "Amphoe Mueang Phayao",
+    "name_th": "อำเภอเมืองพะเยา"
+  },
+  {
+    "id": 599,
+    "aumphure_id": "5602",
+    "province_id": "56",
+    "name_en": "Amphoe Chun",
+    "name_th": "อำเภอจุน"
+  },
+  {
+    "id": 600,
+    "aumphure_id": "5603",
+    "province_id": "56",
+    "name_en": "Amphoe Chiang Kham",
+    "name_th": "อำเภอเชียงคำ"
+  },
+  {
+    "id": 601,
+    "aumphure_id": "5604",
+    "province_id": "56",
+    "name_en": "Amphoe Chiang Muan",
+    "name_th": "อำเภอเชียงม่วน"
+  },
+  {
+    "id": 602,
+    "aumphure_id": "5605",
+    "province_id": "56",
+    "name_en": "Amphoe Dok Khamtai",
+    "name_th": "อำเภอดอกคำใต้"
+  },
+  {
+    "id": 603,
+    "aumphure_id": "5606",
+    "province_id": "56",
+    "name_en": "Amphoe Pong",
+    "name_th": "อำเภอปง"
+  },
+  {
+    "id": 604,
+    "aumphure_id": "5607",
+    "province_id": "56",
+    "name_en": "Amphoe Mae Chai",
+    "name_th": "อำเภอแม่ใจ"
+  },
+  {
+    "id": 605,
+    "aumphure_id": "5608",
+    "province_id": "56",
+    "name_en": "Amphoe Phu Sang",
+    "name_th": "อำเภอภูซาง"
+  },
+  {
+    "id": 606,
+    "aumphure_id": "5609",
+    "province_id": "56",
+    "name_en": "Amphoe Phu Kamyao",
+    "name_th": "อำเภอภูกามยาว"
+  },
+  {
+    "id": 607,
+    "aumphure_id": "5701",
+    "province_id": "57",
+    "name_en": "Amphoe Mueang Chiang Rai",
+    "name_th": "อำเภอเมืองเชียงราย"
+  },
+  {
+    "id": 608,
+    "aumphure_id": "5702",
+    "province_id": "57",
+    "name_en": "Amphoe Wiang Chai",
+    "name_th": "อำเภอเวียงชัย"
+  },
+  {
+    "id": 609,
+    "aumphure_id": "5703",
+    "province_id": "57",
+    "name_en": "Amphoe Chiang Khong",
+    "name_th": "อำเภอเชียงของ"
+  },
+  {
+    "id": 610,
+    "aumphure_id": "5704",
+    "province_id": "57",
+    "name_en": "Amphoe Thoeng",
+    "name_th": "อำเภอเทิง"
+  },
+  {
+    "id": 611,
+    "aumphure_id": "5705",
+    "province_id": "57",
+    "name_en": "Amphoe Phan",
+    "name_th": "อำเภอพาน"
+  },
+  {
+    "id": 612,
+    "aumphure_id": "5706",
+    "province_id": "57",
+    "name_en": "Amphoe Pa Daet",
+    "name_th": "อำเภอป่าแดด"
+  },
+  {
+    "id": 613,
+    "aumphure_id": "5707",
+    "province_id": "57",
+    "name_en": "Amphoe Mae Chan",
+    "name_th": "อำเภอแม่จัน"
+  },
+  {
+    "id": 614,
+    "aumphure_id": "5708",
+    "province_id": "57",
+    "name_en": "Amphoe Chiang Saen",
+    "name_th": "อำเภอเชียงแสน"
+  },
+  {
+    "id": 615,
+    "aumphure_id": "5709",
+    "province_id": "57",
+    "name_en": "Amphoe Mae Sai",
+    "name_th": "อำเภอแม่สาย"
+  },
+  {
+    "id": 616,
+    "aumphure_id": "5710",
+    "province_id": "57",
+    "name_en": "Amphoe Mae Suai",
+    "name_th": "อำเภอแม่สรวย"
+  },
+  {
+    "id": 617,
+    "aumphure_id": "5711",
+    "province_id": "57",
+    "name_en": "Amphoe Wiang Pa Pao",
+    "name_th": "อำเภอเวียงป่าเป้า"
+  },
+  {
+    "id": 618,
+    "aumphure_id": "5712",
+    "province_id": "57",
+    "name_en": "Amphoe Phaya Mengrai",
+    "name_th": "อำเภอพญาเม็งราย"
+  },
+  {
+    "id": 619,
+    "aumphure_id": "5713",
+    "province_id": "57",
+    "name_en": "Amphoe Wiang Kaen",
+    "name_th": "อำเภอเวียงแก่น"
+  },
+  {
+    "id": 620,
+    "aumphure_id": "5714",
+    "province_id": "57",
+    "name_en": "Amphoe Khun Tan",
+    "name_th": "อำเภอขุนตาล"
+  },
+  {
+    "id": 621,
+    "aumphure_id": "5715",
+    "province_id": "57",
+    "name_en": "Amphoe Mae Fa Luang",
+    "name_th": "อำเภอแม่ฟ้าหลวง"
+  },
+  {
+    "id": 622,
+    "aumphure_id": "5716",
+    "province_id": "57",
+    "name_en": "Amphoe Mae Lao",
+    "name_th": "อำเภอแม่ลาว"
+  },
+  {
+    "id": 623,
+    "aumphure_id": "5717",
+    "province_id": "57",
+    "name_en": "Amphoe Wiang Chiang Rung",
+    "name_th": "อำเภอเวียงเชียงรุ้ง"
+  },
+  {
+    "id": 624,
+    "aumphure_id": "5718",
+    "province_id": "57",
+    "name_en": "Amphoe Doi Luang",
+    "name_th": "อำเภอดอยหลวง"
+  },
+  {
+    "id": 625,
+    "aumphure_id": "5801",
+    "province_id": "58",
+    "name_en": "Amphoe Mueang Mae Hong Son",
+    "name_th": "อำเภอเมืองแม่ฮ่องสอน"
+  },
+  {
+    "id": 626,
+    "aumphure_id": "5802",
+    "province_id": "58",
+    "name_en": "Amphoe Khun Yuam",
+    "name_th": "อำเภอขุนยวม"
+  },
+  {
+    "id": 627,
+    "aumphure_id": "5803",
+    "province_id": "58",
+    "name_en": "Amphoe Pai",
+    "name_th": "อำเภอปาย"
+  },
+  {
+    "id": 628,
+    "aumphure_id": "5804",
+    "province_id": "58",
+    "name_en": "Amphoe Mae Sariang",
+    "name_th": "อำเภอแม่สะเรียง"
+  },
+  {
+    "id": 629,
+    "aumphure_id": "5805",
+    "province_id": "58",
+    "name_en": "Amphoe Mae La Noi",
+    "name_th": "อำเภอแม่ลาน้อย"
+  },
+  {
+    "id": 630,
+    "aumphure_id": "5806",
+    "province_id": "58",
+    "name_en": "Amphoe Sop Moei",
+    "name_th": "อำเภอสบเมย"
+  },
+  {
+    "id": 631,
+    "aumphure_id": "5807",
+    "province_id": "58",
+    "name_en": "Amphoe Pang Mapha",
+    "name_th": "อำเภอปางมะผ้า"
+  },
+  {
+    "id": 632,
+    "aumphure_id": "6001",
+    "province_id": "60",
+    "name_en": "Amphoe Mueang Nakhon Sawan",
+    "name_th": "อำเภอเมืองนครสวรรค์"
+  },
+  {
+    "id": 633,
+    "aumphure_id": "6002",
+    "province_id": "60",
+    "name_en": "Amphoe Krok Phra",
+    "name_th": "อำเภอโกรกพระ"
+  },
+  {
+    "id": 634,
+    "aumphure_id": "6003",
+    "province_id": "60",
+    "name_en": "Amphoe Chum Saeng",
+    "name_th": "อำเภอชุมแสง"
+  },
+  {
+    "id": 635,
+    "aumphure_id": "6004",
+    "province_id": "60",
+    "name_en": "Amphoe Nong Bua",
+    "name_th": "อำเภอหนองบัว"
+  },
+  {
+    "id": 636,
+    "aumphure_id": "6005",
+    "province_id": "60",
+    "name_en": "Amphoe Banphot Phisai",
+    "name_th": "อำเภอบรรพตพิสัย"
+  },
+  {
+    "id": 637,
+    "aumphure_id": "6006",
+    "province_id": "60",
+    "name_en": "Amphoe Kao Liao",
+    "name_th": "อำเภอเก้าเลี้ยว"
+  },
+  {
+    "id": 638,
+    "aumphure_id": "6007",
+    "province_id": "60",
+    "name_en": "Amphoe Takhli",
+    "name_th": "อำเภอตาคลี"
+  },
+  {
+    "id": 639,
+    "aumphure_id": "6008",
+    "province_id": "60",
+    "name_en": "Amphoe Tha Tako",
+    "name_th": "อำเภอท่าตะโก"
+  },
+  {
+    "id": 640,
+    "aumphure_id": "6009",
+    "province_id": "60",
+    "name_en": "Amphoe Phaisali",
+    "name_th": "อำเภอไพศาลี"
+  },
+  {
+    "id": 641,
+    "aumphure_id": "6010",
+    "province_id": "60",
+    "name_en": "Amphoe Phayuha Khiri",
+    "name_th": "อำเภอพยุหะคีรี"
+  },
+  {
+    "id": 642,
+    "aumphure_id": "6011",
+    "province_id": "60",
+    "name_en": "Amphoe Lat Yao",
+    "name_th": "อำเภอลาดยาว"
+  },
+  {
+    "id": 643,
+    "aumphure_id": "6012",
+    "province_id": "60",
+    "name_en": "Amphoe Tak Fa",
+    "name_th": "อำเภอตากฟ้า"
+  },
+  {
+    "id": 644,
+    "aumphure_id": "6013",
+    "province_id": "60",
+    "name_en": "Amphoe Mae Wong",
+    "name_th": "อำเภอแม่วงก์"
+  },
+  {
+    "id": 645,
+    "aumphure_id": "6014",
+    "province_id": "60",
+    "name_en": "Amphoe Mae Poen",
+    "name_th": "อำเภอแม่เปิน"
+  },
+  {
+    "id": 646,
+    "aumphure_id": "6015",
+    "province_id": "60",
+    "name_en": "Amphoe Chum Ta Bong",
+    "name_th": "อำเภอชุมตาบง"
+  },
+  {
+    "id": 647,
+    "aumphure_id": "6101",
+    "province_id": "61",
+    "name_en": "Amphoe Mueang Uthai Thani",
+    "name_th": "อำเภอเมืองอุทัยธานี"
+  },
+  {
+    "id": 648,
+    "aumphure_id": "6102",
+    "province_id": "61",
+    "name_en": "Amphoe Thap Than",
+    "name_th": "อำเภอทัพทัน"
+  },
+  {
+    "id": 649,
+    "aumphure_id": "6103",
+    "province_id": "61",
+    "name_en": "Amphoe Sawang Arom",
+    "name_th": "อำเภอสว่างอารมณ์"
+  },
+  {
+    "id": 650,
+    "aumphure_id": "6104",
+    "province_id": "61",
+    "name_en": "Amphoe Nong Chang",
+    "name_th": "อำเภอหนองฉาง"
+  },
+  {
+    "id": 651,
+    "aumphure_id": "6105",
+    "province_id": "61",
+    "name_en": "Amphoe Nong Khayang",
+    "name_th": "อำเภอหนองขาหย่าง"
+  },
+  {
+    "id": 652,
+    "aumphure_id": "6106",
+    "province_id": "61",
+    "name_en": "Amphoe Ban Rai",
+    "name_th": "อำเภอบ้านไร่"
+  },
+  {
+    "id": 653,
+    "aumphure_id": "6107",
+    "province_id": "61",
+    "name_en": "Amphoe Lan Sak",
+    "name_th": "อำเภอลานสัก"
+  },
+  {
+    "id": 654,
+    "aumphure_id": "6108",
+    "province_id": "61",
+    "name_en": "Amphoe Huai Khot",
+    "name_th": "อำเภอห้วยคต"
+  },
+  {
+    "id": 655,
+    "aumphure_id": "6201",
+    "province_id": "62",
+    "name_en": "Amphoe Mueang Kamphaeng Phet",
+    "name_th": "อำเภอเมืองกำแพงเพชร"
+  },
+  {
+    "id": 656,
+    "aumphure_id": "6202",
+    "province_id": "62",
+    "name_en": "Amphoe Sai Ngam",
+    "name_th": "อำเภอไทรงาม"
+  },
+  {
+    "id": 657,
+    "aumphure_id": "6203",
+    "province_id": "62",
+    "name_en": "Amphoe Khlong Lan",
+    "name_th": "อำเภอคลองลาน"
+  },
+  {
+    "id": 658,
+    "aumphure_id": "6204",
+    "province_id": "62",
+    "name_en": "Amphoe Khanu Woralaksaburi",
+    "name_th": "อำเภอขาณุวรลักษบุรี"
+  },
+  {
+    "id": 659,
+    "aumphure_id": "6205",
+    "province_id": "62",
+    "name_en": "Amphoe Khlong Khlung",
+    "name_th": "อำเภอคลองขลุง"
+  },
+  {
+    "id": 660,
+    "aumphure_id": "6206",
+    "province_id": "62",
+    "name_en": "Amphoe Phran Kratai",
+    "name_th": "อำเภอพรานกระต่าย"
+  },
+  {
+    "id": 661,
+    "aumphure_id": "6207",
+    "province_id": "62",
+    "name_en": "Amphoe Lan Krabue",
+    "name_th": "อำเภอลานกระบือ"
+  },
+  {
+    "id": 662,
+    "aumphure_id": "6208",
+    "province_id": "62",
+    "name_en": "Amphoe Sai Thong Watthana",
+    "name_th": "อำเภอทรายทองวัฒนา"
+  },
+  {
+    "id": 663,
+    "aumphure_id": "6209",
+    "province_id": "62",
+    "name_en": "Amphoe Pang Sila Thong",
+    "name_th": "อำเภอปางศิลาทอง"
+  },
+  {
+    "id": 664,
+    "aumphure_id": "6210",
+    "province_id": "62",
+    "name_en": "Amphoe Bueng Samakkhi",
+    "name_th": "อำเภอบึงสามัคคี"
+  },
+  {
+    "id": 665,
+    "aumphure_id": "6211",
+    "province_id": "62",
+    "name_en": "Amphoe Kosamphi Nakhon",
+    "name_th": "อำเภอโกสัมพีนคร"
+  },
+  {
+    "id": 666,
+    "aumphure_id": "6301",
+    "province_id": "63",
+    "name_en": "Amphoe Mueang Tak",
+    "name_th": "อำเภอเมืองตาก"
+  },
+  {
+    "id": 667,
+    "aumphure_id": "6302",
+    "province_id": "63",
+    "name_en": "Amphoe Ban Tak",
+    "name_th": "อำเภอบ้านตาก"
+  },
+  {
+    "id": 668,
+    "aumphure_id": "6303",
+    "province_id": "63",
+    "name_en": "Amphoe Sam Ngao",
+    "name_th": "อำเภอสามเงา"
+  },
+  {
+    "id": 669,
+    "aumphure_id": "6304",
+    "province_id": "63",
+    "name_en": "Amphoe Mae Ramat",
+    "name_th": "อำเภอแม่ระมาด"
+  },
+  {
+    "id": 670,
+    "aumphure_id": "6305",
+    "province_id": "63",
+    "name_en": "Amphoe Tha Song Yang",
+    "name_th": "อำเภอท่าสองยาง"
+  },
+  {
+    "id": 671,
+    "aumphure_id": "6306",
+    "province_id": "63",
+    "name_en": "Amphoe Mae Sot",
+    "name_th": "อำเภอแม่สอด"
+  },
+  {
+    "id": 672,
+    "aumphure_id": "6307",
+    "province_id": "63",
+    "name_en": "Amphoe Phop Phra",
+    "name_th": "อำเภอพบพระ"
+  },
+  {
+    "id": 673,
+    "aumphure_id": "6308",
+    "province_id": "63",
+    "name_en": "Amphoe Umphang",
+    "name_th": "อำเภออุ้มผาง"
+  },
+  {
+    "id": 674,
+    "aumphure_id": "6309",
+    "province_id": "63",
+    "name_en": "Amphoe Wang Chao",
+    "name_th": "อำเภอวังเจ้า"
+  },
+  {
+    "id": 675,
+    "aumphure_id": "6401",
+    "province_id": "64",
+    "name_en": "Amphoe Mueang Sukhothai",
+    "name_th": "อำเภอเมืองสุโขทัย"
+  },
+  {
+    "id": 676,
+    "aumphure_id": "6402",
+    "province_id": "64",
+    "name_en": "Amphoe Ban Dan Lan Hoi",
+    "name_th": "อำเภอบ้านด่านลานหอย"
+  },
+  {
+    "id": 677,
+    "aumphure_id": "6403",
+    "province_id": "64",
+    "name_en": "Amphoe Khiri Mat",
+    "name_th": "อำเภอคีรีมาศ"
+  },
+  {
+    "id": 678,
+    "aumphure_id": "6404",
+    "province_id": "64",
+    "name_en": "Amphoe Kong Krailat",
+    "name_th": "อำเภอกงไกรลาศ"
+  },
+  {
+    "id": 679,
+    "aumphure_id": "6405",
+    "province_id": "64",
+    "name_en": "Amphoe Si Satchanalai",
+    "name_th": "อำเภอศรีสัชนาลัย"
+  },
+  {
+    "id": 680,
+    "aumphure_id": "6406",
+    "province_id": "64",
+    "name_en": "Amphoe Si Samrong",
+    "name_th": "อำเภอศรีสำโรง"
+  },
+  {
+    "id": 681,
+    "aumphure_id": "6407",
+    "province_id": "64",
+    "name_en": "Amphoe Sawankhalok",
+    "name_th": "อำเภอสวรรคโลก"
+  },
+  {
+    "id": 682,
+    "aumphure_id": "6408",
+    "province_id": "64",
+    "name_en": "Amphoe Si Nakhon",
+    "name_th": "อำเภอศรีนคร"
+  },
+  {
+    "id": 683,
+    "aumphure_id": "6409",
+    "province_id": "64",
+    "name_en": "Amphoe Thung Saliam",
+    "name_th": "อำเภอทุ่งเสลี่ยม"
+  },
+  {
+    "id": 684,
+    "aumphure_id": "6501",
+    "province_id": "65",
+    "name_en": "Amphoe Mueang Phitsanulok",
+    "name_th": "อำเภอเมืองพิษณุโลก"
+  },
+  {
+    "id": 685,
+    "aumphure_id": "6502",
+    "province_id": "65",
+    "name_en": "Amphoe Nakhon Thai",
+    "name_th": "อำเภอนครไทย"
+  },
+  {
+    "id": 686,
+    "aumphure_id": "6503",
+    "province_id": "65",
+    "name_en": "Amphoe Chat Trakan",
+    "name_th": "อำเภอชาติตระการ"
+  },
+  {
+    "id": 687,
+    "aumphure_id": "6504",
+    "province_id": "65",
+    "name_en": "Amphoe Bang Rakam",
+    "name_th": "อำเภอบางระกำ"
+  },
+  {
+    "id": 688,
+    "aumphure_id": "6505",
+    "province_id": "65",
+    "name_en": "Amphoe Bang Krathum",
+    "name_th": "อำเภอบางกระทุ่ม"
+  },
+  {
+    "id": 689,
+    "aumphure_id": "6506",
+    "province_id": "65",
+    "name_en": "Amphoe Phrom Phiram",
+    "name_th": "อำเภอพรหมพิราม"
+  },
+  {
+    "id": 690,
+    "aumphure_id": "6507",
+    "province_id": "65",
+    "name_en": "Amphoe Wat Bot",
+    "name_th": "อำเภอวัดโบสถ์"
+  },
+  {
+    "id": 691,
+    "aumphure_id": "6508",
+    "province_id": "65",
+    "name_en": "Amphoe Wang Thong",
+    "name_th": "อำเภอวังทอง"
+  },
+  {
+    "id": 692,
+    "aumphure_id": "6509",
+    "province_id": "65",
+    "name_en": "Amphoe Noen Maprang",
+    "name_th": "อำเภอเนินมะปราง"
+  },
+  {
+    "id": 693,
+    "aumphure_id": "6601",
+    "province_id": "66",
+    "name_en": "Amphoe Mueang Phichit",
+    "name_th": "อำเภอเมืองพิจิตร"
+  },
+  {
+    "id": 694,
+    "aumphure_id": "6602",
+    "province_id": "66",
+    "name_en": "Amphoe Wang Sai Phun",
+    "name_th": "อำเภอวังทรายพูน"
+  },
+  {
+    "id": 695,
+    "aumphure_id": "6603",
+    "province_id": "66",
+    "name_en": "Amphoe Pho Prathap Chang",
+    "name_th": "อำเภอโพธิ์ประทับช้าง"
+  },
+  {
+    "id": 696,
+    "aumphure_id": "6604",
+    "province_id": "66",
+    "name_en": "Amphoe Taphan Hin",
+    "name_th": "อำเภอตะพานหิน"
+  },
+  {
+    "id": 697,
+    "aumphure_id": "6605",
+    "province_id": "66",
+    "name_en": "Amphoe Bang Mun Nak",
+    "name_th": "อำเภอบางมูลนาก"
+  },
+  {
+    "id": 698,
+    "aumphure_id": "6606",
+    "province_id": "66",
+    "name_en": "Amphoe Pho Thale",
+    "name_th": "อำเภอโพทะเล"
+  },
+  {
+    "id": 699,
+    "aumphure_id": "6607",
+    "province_id": "66",
+    "name_en": "Amphoe Sam Ngam",
+    "name_th": "อำเภอสามง่าม"
+  },
+  {
+    "id": 700,
+    "aumphure_id": "6608",
+    "province_id": "66",
+    "name_en": "Amphoe Thap Khlo",
+    "name_th": "อำเภอทับคล้อ"
+  },
+  {
+    "id": 701,
+    "aumphure_id": "6609",
+    "province_id": "66",
+    "name_en": "Amphoe Sak Lek",
+    "name_th": "อำเภอสากเหล็ก"
+  },
+  {
+    "id": 702,
+    "aumphure_id": "6610",
+    "province_id": "66",
+    "name_en": "Amphoe Bueng Na Rang",
+    "name_th": "อำเภอบึงนาราง"
+  },
+  {
+    "id": 703,
+    "aumphure_id": "6611",
+    "province_id": "66",
+    "name_en": "Amphoe Dong Charoen",
+    "name_th": "อำเภอดงเจริญ"
+  },
+  {
+    "id": 704,
+    "aumphure_id": "6612",
+    "province_id": "66",
+    "name_en": "Amphoe Wachirabarami",
+    "name_th": "อำเภอวชิรบารมี"
+  },
+  {
+    "id": 705,
+    "aumphure_id": "6701",
+    "province_id": "67",
+    "name_en": "Amphoe Mueang Phetchabun",
+    "name_th": "อำเภอเมืองเพชรบูรณ์"
+  },
+  {
+    "id": 706,
+    "aumphure_id": "6702",
+    "province_id": "67",
+    "name_en": "Amphoe Chon Daen",
+    "name_th": "อำเภอชนแดน"
+  },
+  {
+    "id": 707,
+    "aumphure_id": "6703",
+    "province_id": "67",
+    "name_en": "Amphoe Lom Sak",
+    "name_th": "อำเภอหล่มสัก"
+  },
+  {
+    "id": 708,
+    "aumphure_id": "6704",
+    "province_id": "67",
+    "name_en": "Amphoe Lom Kao",
+    "name_th": "อำเภอหล่มเก่า"
+  },
+  {
+    "id": 709,
+    "aumphure_id": "6705",
+    "province_id": "67",
+    "name_en": "Amphoe Wichian Buri",
+    "name_th": "อำเภอวิเชียรบุรี"
+  },
+  {
+    "id": 710,
+    "aumphure_id": "6706",
+    "province_id": "67",
+    "name_en": "Amphoe Si Thep",
+    "name_th": "อำเภอศรีเทพ"
+  },
+  {
+    "id": 711,
+    "aumphure_id": "6707",
+    "province_id": "67",
+    "name_en": "Amphoe Nong Phai",
+    "name_th": "อำเภอหนองไผ่"
+  },
+  {
+    "id": 712,
+    "aumphure_id": "6708",
+    "province_id": "67",
+    "name_en": "Amphoe Bueng Sam Phan",
+    "name_th": "อำเภอบึงสามพัน"
+  },
+  {
+    "id": 713,
+    "aumphure_id": "6709",
+    "province_id": "67",
+    "name_en": "Amphoe Nam Nao",
+    "name_th": "อำเภอน้ำหนาว"
+  },
+  {
+    "id": 714,
+    "aumphure_id": "6710",
+    "province_id": "67",
+    "name_en": "Amphoe Wang Pong",
+    "name_th": "อำเภอวังโป่ง"
+  },
+  {
+    "id": 715,
+    "aumphure_id": "6711",
+    "province_id": "67",
+    "name_en": "Amphoe Khao Kho",
+    "name_th": "อำเภอเขาค้อ"
+  },
+  {
+    "id": 716,
+    "aumphure_id": "7001",
+    "province_id": "70",
+    "name_en": "Amphoe Mueang Ratchaburi",
+    "name_th": "อำเภอเมืองราชบุรี"
+  },
+  {
+    "id": 717,
+    "aumphure_id": "7002",
+    "province_id": "70",
+    "name_en": "Amphoe Chom Bueng",
+    "name_th": "อำเภอจอมบึง"
+  },
+  {
+    "id": 718,
+    "aumphure_id": "7003",
+    "province_id": "70",
+    "name_en": "Amphoe Suan Phueng",
+    "name_th": "อำเภอสวนผึ้ง"
+  },
+  {
+    "id": 719,
+    "aumphure_id": "7004",
+    "province_id": "70",
+    "name_en": "Amphoe Damnoen Saduak",
+    "name_th": "อำเภอดำเนินสะดวก"
+  },
+  {
+    "id": 720,
+    "aumphure_id": "7005",
+    "province_id": "70",
+    "name_en": "Amphoe Ban Pong",
+    "name_th": "อำเภอบ้านโป่ง"
+  },
+  {
+    "id": 721,
+    "aumphure_id": "7006",
+    "province_id": "70",
+    "name_en": "Amphoe Bang Phae",
+    "name_th": "อำเภอบางแพ"
+  },
+  {
+    "id": 722,
+    "aumphure_id": "7007",
+    "province_id": "70",
+    "name_en": "Amphoe Photharam",
+    "name_th": "อำเภอโพธาราม"
+  },
+  {
+    "id": 723,
+    "aumphure_id": "7008",
+    "province_id": "70",
+    "name_en": "Amphoe Pak Tho",
+    "name_th": "อำเภอปากท่อ"
+  },
+  {
+    "id": 724,
+    "aumphure_id": "7009",
+    "province_id": "70",
+    "name_en": "Amphoe Wat Phleng",
+    "name_th": "อำเภอวัดเพลง"
+  },
+  {
+    "id": 725,
+    "aumphure_id": "7010",
+    "province_id": "70",
+    "name_en": "Amphoe Ban Kha",
+    "name_th": "อำเภอบ้านคา"
+  },
+  {
+    "id": 726,
+    "aumphure_id": "7101",
+    "province_id": "71",
+    "name_en": "Amphoe Mueang Kanchanaburi",
+    "name_th": "อำเภอเมืองกาญจนบุรี"
+  },
+  {
+    "id": 727,
+    "aumphure_id": "7102",
+    "province_id": "71",
+    "name_en": "Amphoe Sai Yok",
+    "name_th": "อำเภอไทรโยค"
+  },
+  {
+    "id": 728,
+    "aumphure_id": "7103",
+    "province_id": "71",
+    "name_en": "Amphoe Bo Phloi",
+    "name_th": "อำเภอบ่อพลอย"
+  },
+  {
+    "id": 729,
+    "aumphure_id": "7104",
+    "province_id": "71",
+    "name_en": "Amphoe Si Sawat",
+    "name_th": "อำเภอศรีสวัสดิ์"
+  },
+  {
+    "id": 730,
+    "aumphure_id": "7105",
+    "province_id": "71",
+    "name_en": "Amphoe Tha Maka",
+    "name_th": "อำเภอท่ามะกา"
+  },
+  {
+    "id": 731,
+    "aumphure_id": "7106",
+    "province_id": "71",
+    "name_en": "Amphoe Tha Muang",
+    "name_th": "อำเภอท่าม่วง"
+  },
+  {
+    "id": 732,
+    "aumphure_id": "7107",
+    "province_id": "71",
+    "name_en": "Amphoe Thong Pha Phum",
+    "name_th": "อำเภอทองผาภูมิ"
+  },
+  {
+    "id": 733,
+    "aumphure_id": "7108",
+    "province_id": "71",
+    "name_en": "Amphoe Sangkhla Buri",
+    "name_th": "อำเภอสังขละบุรี"
+  },
+  {
+    "id": 734,
+    "aumphure_id": "7109",
+    "province_id": "71",
+    "name_en": "Amphoe Phanom Thuan",
+    "name_th": "อำเภอพนมทวน"
+  },
+  {
+    "id": 735,
+    "aumphure_id": "7110",
+    "province_id": "71",
+    "name_en": "Amphoe Lao Khwan",
+    "name_th": "อำเภอเลาขวัญ"
+  },
+  {
+    "id": 736,
+    "aumphure_id": "7111",
+    "province_id": "71",
+    "name_en": "Amphoe Dan Makham Tia",
+    "name_th": "อำเภอด่านมะขามเตี้ย"
+  },
+  {
+    "id": 737,
+    "aumphure_id": "7112",
+    "province_id": "71",
+    "name_en": "Amphoe Nong Prue",
+    "name_th": "อำเภอหนองปรือ"
+  },
+  {
+    "id": 738,
+    "aumphure_id": "7113",
+    "province_id": "71",
+    "name_en": "Amphoe Huai Krachao",
+    "name_th": "อำเภอห้วยกระเจา"
+  },
+  {
+    "id": 739,
+    "aumphure_id": "7201",
+    "province_id": "72",
+    "name_en": "Amphoe Mueang Suphan Buri",
+    "name_th": "อำเภอเมืองสุพรรณบุรี"
+  },
+  {
+    "id": 740,
+    "aumphure_id": "7202",
+    "province_id": "72",
+    "name_en": "Amphoe Doem Bang Nang Buat",
+    "name_th": "อำเภอเดิมบางนางบวช"
+  },
+  {
+    "id": 741,
+    "aumphure_id": "7203",
+    "province_id": "72",
+    "name_en": "Amphoe Dan Chang",
+    "name_th": "อำเภอด่านช้าง"
+  },
+  {
+    "id": 742,
+    "aumphure_id": "7204",
+    "province_id": "72",
+    "name_en": "Amphoe Bang Pla Ma",
+    "name_th": "อำเภอบางปลาม้า"
+  },
+  {
+    "id": 743,
+    "aumphure_id": "7205",
+    "province_id": "72",
+    "name_en": "Amphoe Si Prachan",
+    "name_th": "อำเภอศรีประจันต์"
+  },
+  {
+    "id": 744,
+    "aumphure_id": "7206",
+    "province_id": "72",
+    "name_en": "Amphoe Don Chedi",
+    "name_th": "อำเภอดอนเจดีย์"
+  },
+  {
+    "id": 745,
+    "aumphure_id": "7207",
+    "province_id": "72",
+    "name_en": "Amphoe Song Phi Nong",
+    "name_th": "อำเภอสองพี่น้อง"
+  },
+  {
+    "id": 746,
+    "aumphure_id": "7208",
+    "province_id": "72",
+    "name_en": "Amphoe Sam Chuk",
+    "name_th": "อำเภอสามชุก"
+  },
+  {
+    "id": 747,
+    "aumphure_id": "7209",
+    "province_id": "72",
+    "name_en": "Amphoe U Thong",
+    "name_th": "อำเภออู่ทอง"
+  },
+  {
+    "id": 748,
+    "aumphure_id": "7210",
+    "province_id": "72",
+    "name_en": "Amphoe Nong Ya Sai",
+    "name_th": "อำเภอหนองหญ้าไซ"
+  },
+  {
+    "id": 749,
+    "aumphure_id": "7301",
+    "province_id": "73",
+    "name_en": "Amphoe Mueang Nakhon Pathom",
+    "name_th": "อำเภอเมืองนครปฐม"
+  },
+  {
+    "id": 750,
+    "aumphure_id": "7302",
+    "province_id": "73",
+    "name_en": "Amphoe Kamphaeng Saen",
+    "name_th": "อำเภอกำแพงแสน"
+  },
+  {
+    "id": 751,
+    "aumphure_id": "7303",
+    "province_id": "73",
+    "name_en": "Amphoe Nakhon Chai Si",
+    "name_th": "อำเภอนครชัยศรี"
+  },
+  {
+    "id": 752,
+    "aumphure_id": "7304",
+    "province_id": "73",
+    "name_en": "Amphoe Don Tum",
+    "name_th": "อำเภอดอนตูม"
+  },
+  {
+    "id": 753,
+    "aumphure_id": "7305",
+    "province_id": "73",
+    "name_en": "Amphoe Bang Len",
+    "name_th": "อำเภอบางเลน"
+  },
+  {
+    "id": 754,
+    "aumphure_id": "7306",
+    "province_id": "73",
+    "name_en": "Amphoe Sam Phran",
+    "name_th": "อำเภอสามพราน"
+  },
+  {
+    "id": 755,
+    "aumphure_id": "7307",
+    "province_id": "73",
+    "name_en": "Amphoe Phutthamonthon",
+    "name_th": "อำเภอพุทธมณฑล"
+  },
+  {
+    "id": 756,
+    "aumphure_id": "7401",
+    "province_id": "74",
+    "name_en": "Amphoe Mueang Samut Sakhon",
+    "name_th": "อำเภอเมืองสมุทรสาคร"
+  },
+  {
+    "id": 757,
+    "aumphure_id": "7402",
+    "province_id": "74",
+    "name_en": "Amphoe Krathum Baen",
+    "name_th": "อำเภอกระทุ่มแบน"
+  },
+  {
+    "id": 758,
+    "aumphure_id": "7403",
+    "province_id": "74",
+    "name_en": "Amphoe Ban Phaeo",
+    "name_th": "อำเภอบ้านแพ้ว"
+  },
+  {
+    "id": 759,
+    "aumphure_id": "7501",
+    "province_id": "75",
+    "name_en": "Amphoe Mueang Samut Songkhram",
+    "name_th": "อำเภอเมืองสมุทรสงคราม"
+  },
+  {
+    "id": 760,
+    "aumphure_id": "7502",
+    "province_id": "75",
+    "name_en": "Amphoe Bang Khonthi",
+    "name_th": "อำเภอบางคนที"
+  },
+  {
+    "id": 761,
+    "aumphure_id": "7503",
+    "province_id": "75",
+    "name_en": "Amphoe Amphawa",
+    "name_th": "อำเภออัมพวา"
+  },
+  {
+    "id": 762,
+    "aumphure_id": "7601",
+    "province_id": "76",
+    "name_en": "Amphoe Mueang Phetchaburi",
+    "name_th": "อำเภอเมืองเพชรบุรี"
+  },
+  {
+    "id": 763,
+    "aumphure_id": "7602",
+    "province_id": "76",
+    "name_en": "Amphoe Khao Yoi",
+    "name_th": "อำเภอเขาย้อย"
+  },
+  {
+    "id": 764,
+    "aumphure_id": "7603",
+    "province_id": "76",
+    "name_en": "Amphoe Nong Ya Plong",
+    "name_th": "อำเภอหนองหญ้าปล้อง"
+  },
+  {
+    "id": 765,
+    "aumphure_id": "7604",
+    "province_id": "76",
+    "name_en": "Amphoe Cha-am",
+    "name_th": "อำเภอชะอำ"
+  },
+  {
+    "id": 766,
+    "aumphure_id": "7605",
+    "province_id": "76",
+    "name_en": "Amphoe Tha Yang",
+    "name_th": "อำเภอท่ายาง"
+  },
+  {
+    "id": 767,
+    "aumphure_id": "7606",
+    "province_id": "76",
+    "name_en": "Amphoe Ban Lat",
+    "name_th": "อำเภอบ้านลาด"
+  },
+  {
+    "id": 768,
+    "aumphure_id": "7607",
+    "province_id": "76",
+    "name_en": "Amphoe Ban Laem",
+    "name_th": "อำเภอบ้านแหลม"
+  },
+  {
+    "id": 769,
+    "aumphure_id": "7608",
+    "province_id": "76",
+    "name_en": "Amphoe Kaeng Krachan",
+    "name_th": "อำเภอแก่งกระจาน"
+  },
+  {
+    "id": 770,
+    "aumphure_id": "7701",
+    "province_id": "77",
+    "name_en": "Amphoe Mueang Prachuap Khiri Khan",
+    "name_th": "อำเภอเมืองประจวบคีรีขันธ์"
+  },
+  {
+    "id": 771,
+    "aumphure_id": "7702",
+    "province_id": "77",
+    "name_en": "Amphoe Kui Buri",
+    "name_th": "อำเภอกุยบุรี"
+  },
+  {
+    "id": 772,
+    "aumphure_id": "7703",
+    "province_id": "77",
+    "name_en": "Amphoe Thap Sakae",
+    "name_th": "อำเภอทับสะแก"
+  },
+  {
+    "id": 773,
+    "aumphure_id": "7704",
+    "province_id": "77",
+    "name_en": "Amphoe Bang Saphan",
+    "name_th": "อำเภอบางสะพาน"
+  },
+  {
+    "id": 774,
+    "aumphure_id": "7705",
+    "province_id": "77",
+    "name_en": "Amphoe Bang Saphan Noi",
+    "name_th": "อำเภอบางสะพานน้อย"
+  },
+  {
+    "id": 775,
+    "aumphure_id": "7706",
+    "province_id": "77",
+    "name_en": "Amphoe Pran Buri",
+    "name_th": "อำเภอปราณบุรี"
+  },
+  {
+    "id": 776,
+    "aumphure_id": "7707",
+    "province_id": "77",
+    "name_en": "Amphoe Hua Hin",
+    "name_th": "อำเภอหัวหิน"
+  },
+  {
+    "id": 777,
+    "aumphure_id": "7708",
+    "province_id": "77",
+    "name_en": "Amphoe Sam Roi Yot",
+    "name_th": "อำเภอสามร้อยยอด"
+  },
+  {
+    "id": 778,
+    "aumphure_id": "8001",
+    "province_id": "80",
+    "name_en": "Amphoe Mueang Nakhon Si Thammarat",
+    "name_th": "อำเภอเมืองนครศรีธรรมราช"
+  },
+  {
+    "id": 779,
+    "aumphure_id": "8002",
+    "province_id": "80",
+    "name_en": "Amphoe Phrom Khiri",
+    "name_th": "อำเภอพรหมคีรี"
+  },
+  {
+    "id": 780,
+    "aumphure_id": "8003",
+    "province_id": "80",
+    "name_en": "Amphoe Lan Saka",
+    "name_th": "อำเภอลานสกา"
+  },
+  {
+    "id": 781,
+    "aumphure_id": "8004",
+    "province_id": "80",
+    "name_en": "Amphoe Chawang",
+    "name_th": "อำเภอฉวาง"
+  },
+  {
+    "id": 782,
+    "aumphure_id": "8005",
+    "province_id": "80",
+    "name_en": "Amphoe Phipun",
+    "name_th": "อำเภอพิปูน"
+  },
+  {
+    "id": 783,
+    "aumphure_id": "8006",
+    "province_id": "80",
+    "name_en": "Amphoe Chian Yai",
+    "name_th": "อำเภอเชียรใหญ่"
+  },
+  {
+    "id": 784,
+    "aumphure_id": "8007",
+    "province_id": "80",
+    "name_en": "Amphoe Cha-uat",
+    "name_th": "อำเภอชะอวด"
+  },
+  {
+    "id": 785,
+    "aumphure_id": "8008",
+    "province_id": "80",
+    "name_en": "Amphoe Tha Sala",
+    "name_th": "อำเภอท่าศาลา"
+  },
+  {
+    "id": 786,
+    "aumphure_id": "8009",
+    "province_id": "80",
+    "name_en": "Amphoe Thung Song",
+    "name_th": "อำเภอทุ่งสง"
+  },
+  {
+    "id": 787,
+    "aumphure_id": "8010",
+    "province_id": "80",
+    "name_en": "Amphoe Na Bon",
+    "name_th": "อำเภอนาบอน"
+  },
+  {
+    "id": 788,
+    "aumphure_id": "8011",
+    "province_id": "80",
+    "name_en": "Amphoe Thung Yai",
+    "name_th": "อำเภอทุ่งใหญ่"
+  },
+  {
+    "id": 789,
+    "aumphure_id": "8012",
+    "province_id": "80",
+    "name_en": "Amphoe Pak Phanang",
+    "name_th": "อำเภอปากพนัง"
+  },
+  {
+    "id": 790,
+    "aumphure_id": "8013",
+    "province_id": "80",
+    "name_en": "Amphoe Ron Phibun",
+    "name_th": "อำเภอร่อนพิบูลย์"
+  },
+  {
+    "id": 791,
+    "aumphure_id": "8014",
+    "province_id": "80",
+    "name_en": "Amphoe Sichon",
+    "name_th": "อำเภอสิชล"
+  },
+  {
+    "id": 792,
+    "aumphure_id": "8015",
+    "province_id": "80",
+    "name_en": "Amphoe Khanom",
+    "name_th": "อำเภอขนอม"
+  },
+  {
+    "id": 793,
+    "aumphure_id": "8016",
+    "province_id": "80",
+    "name_en": "Amphoe Hua Sai",
+    "name_th": "อำเภอหัวไทร"
+  },
+  {
+    "id": 794,
+    "aumphure_id": "8017",
+    "province_id": "80",
+    "name_en": "Amphoe Bang Khan",
+    "name_th": "อำเภอบางขัน"
+  },
+  {
+    "id": 795,
+    "aumphure_id": "8018",
+    "province_id": "80",
+    "name_en": "Amphoe Tham Phannara",
+    "name_th": "อำเภอถ้ำพรรณรา"
+  },
+  {
+    "id": 796,
+    "aumphure_id": "8019",
+    "province_id": "80",
+    "name_en": "Amphoe Chulabhorn",
+    "name_th": "อำเภอจุฬาภรณ์"
+  },
+  {
+    "id": 797,
+    "aumphure_id": "8020",
+    "province_id": "80",
+    "name_en": "Amphoe Phra Phrom",
+    "name_th": "อำเภอพระพรหม"
+  },
+  {
+    "id": 798,
+    "aumphure_id": "8021",
+    "province_id": "80",
+    "name_en": "Amphoe Nopphitam",
+    "name_th": "อำเภอนบพิตำ"
+  },
+  {
+    "id": 799,
+    "aumphure_id": "8022",
+    "province_id": "80",
+    "name_en": "Amphoe Chang Klang",
+    "name_th": "อำเภอช้างกลาง"
+  },
+  {
+    "id": 800,
+    "aumphure_id": "8023",
+    "province_id": "80",
+    "name_en": "Amphoe Chaloem Phra Kiat",
+    "name_th": "อำเภอเฉลิมพระเกียรติ"
+  },
+  {
+    "id": 801,
+    "aumphure_id": "8101",
+    "province_id": "81",
+    "name_en": "Amphoe Mueang Krabi",
+    "name_th": "อำเภอเมืองกระบี่"
+  },
+  {
+    "id": 802,
+    "aumphure_id": "8102",
+    "province_id": "81",
+    "name_en": "Amphoe Khao Phanom",
+    "name_th": "อำเภอเขาพนม"
+  },
+  {
+    "id": 803,
+    "aumphure_id": "8103",
+    "province_id": "81",
+    "name_en": "Amphoe Ko Lanta",
+    "name_th": "อำเภอเกาะลันตา"
+  },
+  {
+    "id": 804,
+    "aumphure_id": "8104",
+    "province_id": "81",
+    "name_en": "Amphoe Khlong Thom",
+    "name_th": "อำเภอคลองท่อม"
+  },
+  {
+    "id": 805,
+    "aumphure_id": "8105",
+    "province_id": "81",
+    "name_en": "Amphoe Ao Luek",
+    "name_th": "อำเภออ่าวลึก"
+  },
+  {
+    "id": 806,
+    "aumphure_id": "8106",
+    "province_id": "81",
+    "name_en": "Amphoe Plai Phraya",
+    "name_th": "อำเภอปลายพระยา"
+  },
+  {
+    "id": 807,
+    "aumphure_id": "8107",
+    "province_id": "81",
+    "name_en": "Amphoe Lam Thap",
+    "name_th": "อำเภอลำทับ"
+  },
+  {
+    "id": 808,
+    "aumphure_id": "8108",
+    "province_id": "81",
+    "name_en": "Amphoe Nuea Khlong",
+    "name_th": "อำเภอเหนือคลอง"
+  },
+  {
+    "id": 809,
+    "aumphure_id": "8201",
+    "province_id": "82",
+    "name_en": "Amphoe Mueang Phang-nga",
+    "name_th": "อำเภอเมืองพังงา"
+  },
+  {
+    "id": 810,
+    "aumphure_id": "8202",
+    "province_id": "82",
+    "name_en": "Amphoe Ko Yao",
+    "name_th": "อำเภอเกาะยาว"
+  },
+  {
+    "id": 811,
+    "aumphure_id": "8203",
+    "province_id": "82",
+    "name_en": "Amphoe Kapong",
+    "name_th": "อำเภอกะปง"
+  },
+  {
+    "id": 812,
+    "aumphure_id": "8204",
+    "province_id": "82",
+    "name_en": "Amphoe Takua Thung",
+    "name_th": "อำเภอตะกั่วทุ่ง"
+  },
+  {
+    "id": 813,
+    "aumphure_id": "8205",
+    "province_id": "82",
+    "name_en": "Amphoe Takua Pa",
+    "name_th": "อำเภอตะกั่วป่า"
+  },
+  {
+    "id": 814,
+    "aumphure_id": "8206",
+    "province_id": "82",
+    "name_en": "Amphoe Khura Buri",
+    "name_th": "อำเภอคุระบุรี"
+  },
+  {
+    "id": 815,
+    "aumphure_id": "8207",
+    "province_id": "82",
+    "name_en": "Amphoe Thap Put",
+    "name_th": "อำเภอทับปุด"
+  },
+  {
+    "id": 816,
+    "aumphure_id": "8208",
+    "province_id": "82",
+    "name_en": "Amphoe Thai Mueang",
+    "name_th": "อำเภอท้ายเหมือง"
+  },
+  {
+    "id": 817,
+    "aumphure_id": "8301",
+    "province_id": "83",
+    "name_en": "Amphoe Mueang Phuket",
+    "name_th": "อำเภอเมืองภูเก็ต"
+  },
+  {
+    "id": 818,
+    "aumphure_id": "8302",
+    "province_id": "83",
+    "name_en": "Amphoe Kathu",
+    "name_th": "อำเภอกะทู้"
+  },
+  {
+    "id": 819,
+    "aumphure_id": "8303",
+    "province_id": "83",
+    "name_en": "Amphoe Thalang",
+    "name_th": "อำเภอถลาง"
+  },
+  {
+    "id": 820,
+    "aumphure_id": "8401",
+    "province_id": "84",
+    "name_en": "Amphoe Mueang Surat Thani",
+    "name_th": "อำเภอเมืองสุราษฎร์ธานี"
+  },
+  {
+    "id": 821,
+    "aumphure_id": "8402",
+    "province_id": "84",
+    "name_en": "Amphoe Kanchanadit",
+    "name_th": "อำเภอกาญจนดิษฐ์"
+  },
+  {
+    "id": 822,
+    "aumphure_id": "8403",
+    "province_id": "84",
+    "name_en": "Amphoe Don Sak",
+    "name_th": "อำเภอดอนสัก"
+  },
+  {
+    "id": 823,
+    "aumphure_id": "8404",
+    "province_id": "84",
+    "name_en": "Amphoe Ko Samui",
+    "name_th": "อำเภอเกาะสมุย"
+  },
+  {
+    "id": 824,
+    "aumphure_id": "8405",
+    "province_id": "84",
+    "name_en": "Amphoe Ko Pha-ngan",
+    "name_th": "อำเภอเกาะพะงัน"
+  },
+  {
+    "id": 825,
+    "aumphure_id": "8406",
+    "province_id": "84",
+    "name_en": "Amphoe Chaiya",
+    "name_th": "อำเภอไชยา"
+  },
+  {
+    "id": 826,
+    "aumphure_id": "8407",
+    "province_id": "84",
+    "name_en": "Amphoe Tha Chana",
+    "name_th": "อำเภอท่าชนะ"
+  },
+  {
+    "id": 827,
+    "aumphure_id": "8408",
+    "province_id": "84",
+    "name_en": "Amphoe Khiri Rat Nikhom",
+    "name_th": "อำเภอคีรีรัฐนิคม"
+  },
+  {
+    "id": 828,
+    "aumphure_id": "8409",
+    "province_id": "84",
+    "name_en": "Amphoe Ban Ta Khun",
+    "name_th": "อำเภอบ้านตาขุน"
+  },
+  {
+    "id": 829,
+    "aumphure_id": "8410",
+    "province_id": "84",
+    "name_en": "Amphoe Phanom",
+    "name_th": "อำเภอพนม"
+  },
+  {
+    "id": 830,
+    "aumphure_id": "8411",
+    "province_id": "84",
+    "name_en": "Amphoe Tha Chang",
+    "name_th": "อำเภอท่าฉาง"
+  },
+  {
+    "id": 831,
+    "aumphure_id": "8412",
+    "province_id": "84",
+    "name_en": "Amphoe Ban Na San",
+    "name_th": "อำเภอบ้านนาสาร"
+  },
+  {
+    "id": 832,
+    "aumphure_id": "8413",
+    "province_id": "84",
+    "name_en": "Amphoe Ban Na Doem",
+    "name_th": "อำเภอบ้านนาเดิม"
+  },
+  {
+    "id": 833,
+    "aumphure_id": "8414",
+    "province_id": "84",
+    "name_en": "Amphoe Khian Sa",
+    "name_th": "อำเภอเคียนซา"
+  },
+  {
+    "id": 834,
+    "aumphure_id": "8415",
+    "province_id": "84",
+    "name_en": "Amphoe Wiang Sa",
+    "name_th": "อำเภอเวียงสระ"
+  },
+  {
+    "id": 835,
+    "aumphure_id": "8416",
+    "province_id": "84",
+    "name_en": "Amphoe Phrasaeng",
+    "name_th": "อำเภอพระแสง"
+  },
+  {
+    "id": 836,
+    "aumphure_id": "8417",
+    "province_id": "84",
+    "name_en": "Amphoe Phunphin",
+    "name_th": "อำเภอพุนพิน"
+  },
+  {
+    "id": 837,
+    "aumphure_id": "8418",
+    "province_id": "84",
+    "name_en": "Amphoe Chai Buri",
+    "name_th": "อำเภอชัยบุรี"
+  },
+  {
+    "id": 838,
+    "aumphure_id": "8419",
+    "province_id": "84",
+    "name_en": "Amphoe Vibhavadi",
+    "name_th": "อำเภอวิภาวดี"
+  },
+  {
+    "id": 839,
+    "aumphure_id": "8501",
+    "province_id": "85",
+    "name_en": "Amphoe Mueang Ranong",
+    "name_th": "อำเภอเมืองระนอง"
+  },
+  {
+    "id": 840,
+    "aumphure_id": "8502",
+    "province_id": "85",
+    "name_en": "Amphoe La-un",
+    "name_th": "อำเภอละอุ่น"
+  },
+  {
+    "id": 841,
+    "aumphure_id": "8503",
+    "province_id": "85",
+    "name_en": "Amphoe Kapoe",
+    "name_th": "อำเภอกะเปอร์"
+  },
+  {
+    "id": 842,
+    "aumphure_id": "8504",
+    "province_id": "85",
+    "name_en": "Amphoe Kra Buri",
+    "name_th": "อำเภอกระบุรี"
+  },
+  {
+    "id": 843,
+    "aumphure_id": "8505",
+    "province_id": "85",
+    "name_en": "Amphoe Suk Samran",
+    "name_th": "อำเภอสุขสำราญ"
+  },
+  {
+    "id": 844,
+    "aumphure_id": "8601",
+    "province_id": "86",
+    "name_en": "Amphoe Mueang Chumphon",
+    "name_th": "อำเภอเมืองชุมพร"
+  },
+  {
+    "id": 845,
+    "aumphure_id": "8602",
+    "province_id": "86",
+    "name_en": "Amphoe Tha Sae",
+    "name_th": "อำเภอท่าแซะ"
+  },
+  {
+    "id": 846,
+    "aumphure_id": "8603",
+    "province_id": "86",
+    "name_en": "Amphoe Pathio",
+    "name_th": "อำเภอปะทิว"
+  },
+  {
+    "id": 847,
+    "aumphure_id": "8604",
+    "province_id": "86",
+    "name_en": "Amphoe Lang Suan",
+    "name_th": "อำเภอหลังสวน"
+  },
+  {
+    "id": 848,
+    "aumphure_id": "8605",
+    "province_id": "86",
+    "name_en": "Amphoe Lamae",
+    "name_th": "อำเภอละแม"
+  },
+  {
+    "id": 849,
+    "aumphure_id": "8606",
+    "province_id": "86",
+    "name_en": "Amphoe Phato",
+    "name_th": "อำเภอพะโต๊ะ"
+  },
+  {
+    "id": 850,
+    "aumphure_id": "8607",
+    "province_id": "86",
+    "name_en": "Amphoe Sawi",
+    "name_th": "อำเภอสวี"
+  },
+  {
+    "id": 851,
+    "aumphure_id": "8608",
+    "province_id": "86",
+    "name_en": "Amphoe Thung Tako",
+    "name_th": "อำเภอทุ่งตะโก"
+  },
+  {
+    "id": 852,
+    "aumphure_id": "9001",
+    "province_id": "90",
+    "name_en": "Amphoe Mueang Songkhla",
+    "name_th": "อำเภอเมืองสงขลา"
+  },
+  {
+    "id": 853,
+    "aumphure_id": "9002",
+    "province_id": "90",
+    "name_en": "Amphoe Sathing Phra",
+    "name_th": "อำเภอสทิงพระ"
+  },
+  {
+    "id": 854,
+    "aumphure_id": "9003",
+    "province_id": "90",
+    "name_en": "Amphoe Chana",
+    "name_th": "อำเภอจะนะ"
+  },
+  {
+    "id": 855,
+    "aumphure_id": "9004",
+    "province_id": "90",
+    "name_en": "Amphoe Na Thawi",
+    "name_th": "อำเภอนาทวี"
+  },
+  {
+    "id": 856,
+    "aumphure_id": "9005",
+    "province_id": "90",
+    "name_en": "Amphoe Thepha",
+    "name_th": "อำเภอเทพา"
+  },
+  {
+    "id": 857,
+    "aumphure_id": "9006",
+    "province_id": "90",
+    "name_en": "Amphoe Saba Yoi",
+    "name_th": "อำเภอสะบ้าย้อย"
+  },
+  {
+    "id": 858,
+    "aumphure_id": "9007",
+    "province_id": "90",
+    "name_en": "Amphoe Ranot",
+    "name_th": "อำเภอระโนด"
+  },
+  {
+    "id": 859,
+    "aumphure_id": "9008",
+    "province_id": "90",
+    "name_en": "Amphoe Krasae Sin",
+    "name_th": "อำเภอกระแสสินธุ์"
+  },
+  {
+    "id": 860,
+    "aumphure_id": "9009",
+    "province_id": "90",
+    "name_en": "Amphoe Rattaphum",
+    "name_th": "อำเภอรัตภูมิ"
+  },
+  {
+    "id": 861,
+    "aumphure_id": "9010",
+    "province_id": "90",
+    "name_en": "Amphoe Sadao",
+    "name_th": "อำเภอสะเดา"
+  },
+  {
+    "id": 862,
+    "aumphure_id": "9011",
+    "province_id": "90",
+    "name_en": "Amphoe Hat Yai",
+    "name_th": "อำเภอหาดใหญ่"
+  },
+  {
+    "id": 863,
+    "aumphure_id": "9012",
+    "province_id": "90",
+    "name_en": "Amphoe Na Mom",
+    "name_th": "อำเภอนาหม่อม"
+  },
+  {
+    "id": 864,
+    "aumphure_id": "9013",
+    "province_id": "90",
+    "name_en": "Amphoe Khuan Niang",
+    "name_th": "อำเภอควนเนียง"
+  },
+  {
+    "id": 865,
+    "aumphure_id": "9014",
+    "province_id": "90",
+    "name_en": "Amphoe Bang Klam",
+    "name_th": "อำเภอบางกล่ำ"
+  },
+  {
+    "id": 866,
+    "aumphure_id": "9015",
+    "province_id": "90",
+    "name_en": "Amphoe Singhanakhon",
+    "name_th": "อำเภอสิงหนคร"
+  },
+  {
+    "id": 867,
+    "aumphure_id": "9016",
+    "province_id": "90",
+    "name_en": "Amphoe Khlong Hoi Khong",
+    "name_th": "อำเภอคลองหอยโข่ง"
+  },
+  {
+    "id": 868,
+    "aumphure_id": "9101",
+    "province_id": "91",
+    "name_en": "Amphoe Mueang Satun",
+    "name_th": "อำเภอเมืองสตูล"
+  },
+  {
+    "id": 869,
+    "aumphure_id": "9102",
+    "province_id": "91",
+    "name_en": "Amphoe Khuan Don",
+    "name_th": "อำเภอควนโดน"
+  },
+  {
+    "id": 870,
+    "aumphure_id": "9103",
+    "province_id": "91",
+    "name_en": "Amphoe Khuan Kalong",
+    "name_th": "อำเภอควนกาหลง"
+  },
+  {
+    "id": 871,
+    "aumphure_id": "9104",
+    "province_id": "91",
+    "name_en": "Amphoe Tha Phae",
+    "name_th": "อำเภอท่าแพ"
+  },
+  {
+    "id": 872,
+    "aumphure_id": "9105",
+    "province_id": "91",
+    "name_en": "Amphoe La-ngu",
+    "name_th": "อำเภอละงู"
+  },
+  {
+    "id": 873,
+    "aumphure_id": "9106",
+    "province_id": "91",
+    "name_en": "Amphoe Thung Wa",
+    "name_th": "อำเภอทุ่งหว้า"
+  },
+  {
+    "id": 874,
+    "aumphure_id": "9107",
+    "province_id": "91",
+    "name_en": "Amphoe Manang",
+    "name_th": "อำเภอมะนัง"
+  },
+  {
+    "id": 875,
+    "aumphure_id": "9201",
+    "province_id": "92",
+    "name_en": "Amphoe Mueang Trang",
+    "name_th": "อำเภอเมืองตรัง"
+  },
+  {
+    "id": 876,
+    "aumphure_id": "9202",
+    "province_id": "92",
+    "name_en": "Amphoe Kantang",
+    "name_th": "อำเภอกันตัง"
+  },
+  {
+    "id": 877,
+    "aumphure_id": "9203",
+    "province_id": "92",
+    "name_en": "Amphoe Yan Ta Khao",
+    "name_th": "อำเภอย่านตาขาว"
+  },
+  {
+    "id": 878,
+    "aumphure_id": "9204",
+    "province_id": "92",
+    "name_en": "Amphoe Palian",
+    "name_th": "อำเภอปะเหลียน"
+  },
+  {
+    "id": 879,
+    "aumphure_id": "9205",
+    "province_id": "92",
+    "name_en": "Amphoe Sikao",
+    "name_th": "อำเภอสิเกา"
+  },
+  {
+    "id": 880,
+    "aumphure_id": "9206",
+    "province_id": "92",
+    "name_en": "Amphoe Huai Yot",
+    "name_th": "อำเภอห้วยยอด"
+  },
+  {
+    "id": 881,
+    "aumphure_id": "9207",
+    "province_id": "92",
+    "name_en": "Amphoe Wang Wiset",
+    "name_th": "อำเภอวังวิเศษ"
+  },
+  {
+    "id": 882,
+    "aumphure_id": "9208",
+    "province_id": "92",
+    "name_en": "Amphoe Na Yong",
+    "name_th": "อำเภอนาโยง"
+  },
+  {
+    "id": 883,
+    "aumphure_id": "9209",
+    "province_id": "92",
+    "name_en": "Amphoe Ratsada",
+    "name_th": "อำเภอรัษฎา"
+  },
+  {
+    "id": 884,
+    "aumphure_id": "9210",
+    "province_id": "92",
+    "name_en": "Amphoe Hat Samran",
+    "name_th": "อำเภอหาดสำราญ"
+  },
+  {
+    "id": 885,
+    "aumphure_id": "9301",
+    "province_id": "93",
+    "name_en": "Amphoe Mueang Phatthalung",
+    "name_th": "อำเภอเมืองพัทลุง"
+  },
+  {
+    "id": 886,
+    "aumphure_id": "9302",
+    "province_id": "93",
+    "name_en": "Amphoe Kong Ra",
+    "name_th": "อำเภอกงหรา"
+  },
+  {
+    "id": 887,
+    "aumphure_id": "9303",
+    "province_id": "93",
+    "name_en": "Amphoe Khao Chaison",
+    "name_th": "อำเภอเขาชัยสน"
+  },
+  {
+    "id": 888,
+    "aumphure_id": "9304",
+    "province_id": "93",
+    "name_en": "Amphoe Tamot",
+    "name_th": "อำเภอตะโหมด"
+  },
+  {
+    "id": 889,
+    "aumphure_id": "9305",
+    "province_id": "93",
+    "name_en": "Amphoe Khuan Khanun",
+    "name_th": "อำเภอควนขนุน"
+  },
+  {
+    "id": 890,
+    "aumphure_id": "9306",
+    "province_id": "93",
+    "name_en": "Amphoe Pak Phayun",
+    "name_th": "อำเภอปากพะยูน"
+  },
+  {
+    "id": 891,
+    "aumphure_id": "9307",
+    "province_id": "93",
+    "name_en": "Amphoe Si Banphot",
+    "name_th": "อำเภอศรีบรรพต"
+  },
+  {
+    "id": 892,
+    "aumphure_id": "9308",
+    "province_id": "93",
+    "name_en": "Amphoe Pa Bon",
+    "name_th": "อำเภอป่าบอน"
+  },
+  {
+    "id": 893,
+    "aumphure_id": "9309",
+    "province_id": "93",
+    "name_en": "Amphoe Bang Kaeo",
+    "name_th": "อำเภอบางแก้ว"
+  },
+  {
+    "id": 894,
+    "aumphure_id": "9310",
+    "province_id": "93",
+    "name_en": "Amphoe Pa Phayom",
+    "name_th": "อำเภอป่าพะยอม"
+  },
+  {
+    "id": 895,
+    "aumphure_id": "9311",
+    "province_id": "93",
+    "name_en": "Amphoe Srinagarindra",
+    "name_th": "อำเภอศรีนครินทร์"
+  },
+  {
+    "id": 896,
+    "aumphure_id": "9401",
+    "province_id": "94",
+    "name_en": "Amphoe Mueang Pattani",
+    "name_th": "อำเภอเมืองปัตตานี"
+  },
+  {
+    "id": 897,
+    "aumphure_id": "9402",
+    "province_id": "94",
+    "name_en": "Amphoe Khok Pho",
+    "name_th": "อำเภอโคกโพธิ์"
+  },
+  {
+    "id": 898,
+    "aumphure_id": "9403",
+    "province_id": "94",
+    "name_en": "Amphoe Nong Chik",
+    "name_th": "อำเภอหนองจิก"
+  },
+  {
+    "id": 899,
+    "aumphure_id": "9404",
+    "province_id": "94",
+    "name_en": "Amphoe Panare",
+    "name_th": "อำเภอปะนาเระ"
+  },
+  {
+    "id": 900,
+    "aumphure_id": "9405",
+    "province_id": "94",
+    "name_en": "Amphoe Mayo",
+    "name_th": "อำเภอมายอ"
+  },
+  {
+    "id": 901,
+    "aumphure_id": "9406",
+    "province_id": "94",
+    "name_en": "Amphoe Thung Yang Daeng",
+    "name_th": "อำเภอทุ่งยางแดง"
+  },
+  {
+    "id": 902,
+    "aumphure_id": "9407",
+    "province_id": "94",
+    "name_en": "Amphoe Sai Buri",
+    "name_th": "อำเภอสายบุรี"
+  },
+  {
+    "id": 903,
+    "aumphure_id": "9408",
+    "province_id": "94",
+    "name_en": "Amphoe Mai Kaen",
+    "name_th": "อำเภอไม้แก่น"
+  },
+  {
+    "id": 904,
+    "aumphure_id": "9409",
+    "province_id": "94",
+    "name_en": "Amphoe Yaring",
+    "name_th": "อำเภอยะหริ่ง"
+  },
+  {
+    "id": 905,
+    "aumphure_id": "9410",
+    "province_id": "94",
+    "name_en": "Amphoe Yarang",
+    "name_th": "อำเภอยะรัง"
+  },
+  {
+    "id": 906,
+    "aumphure_id": "9411",
+    "province_id": "94",
+    "name_en": "Amphoe Kapho",
+    "name_th": "อำเภอกะพ้อ"
+  },
+  {
+    "id": 907,
+    "aumphure_id": "9412",
+    "province_id": "94",
+    "name_en": "Amphoe Mae Lan",
+    "name_th": "อำเภอแม่ลาน"
+  },
+  {
+    "id": 908,
+    "aumphure_id": "9501",
+    "province_id": "95",
+    "name_en": "Amphoe Mueang Yala",
+    "name_th": "อำเภอเมืองยะลา"
+  },
+  {
+    "id": 909,
+    "aumphure_id": "9502",
+    "province_id": "95",
+    "name_en": "Amphoe Betong",
+    "name_th": "อำเภอเบตง"
+  },
+  {
+    "id": 910,
+    "aumphure_id": "9503",
+    "province_id": "95",
+    "name_en": "Amphoe Bannang Sata",
+    "name_th": "อำเภอบันนังสตา"
+  },
+  {
+    "id": 911,
+    "aumphure_id": "9504",
+    "province_id": "95",
+    "name_en": "Amphoe Than To",
+    "name_th": "อำเภอธารโต"
+  },
+  {
+    "id": 912,
+    "aumphure_id": "9505",
+    "province_id": "95",
+    "name_en": "Amphoe Yaha",
+    "name_th": "อำเภอยะหา"
+  },
+  {
+    "id": 913,
+    "aumphure_id": "9506",
+    "province_id": "95",
+    "name_en": "Amphoe Raman",
+    "name_th": "อำเภอรามัน"
+  },
+  {
+    "id": 914,
+    "aumphure_id": "9507",
+    "province_id": "95",
+    "name_en": "Amphoe Kabang",
+    "name_th": "อำเภอกาบัง"
+  },
+  {
+    "id": 915,
+    "aumphure_id": "9508",
+    "province_id": "95",
+    "name_en": "Amphoe Krong Pinang",
+    "name_th": "อำเภอกรงปินัง"
+  },
+  {
+    "id": 916,
+    "aumphure_id": "9601",
+    "province_id": "96",
+    "name_en": "Amphoe Mueang Narathiwat",
+    "name_th": "อำเภอเมืองนราธิวาส"
+  },
+  {
+    "id": 917,
+    "aumphure_id": "9602",
+    "province_id": "96",
+    "name_en": "Amphoe Tak Bai",
+    "name_th": "อำเภอตากใบ"
+  },
+  {
+    "id": 918,
+    "aumphure_id": "9603",
+    "province_id": "96",
+    "name_en": "Amphoe Bacho",
+    "name_th": "อำเภอบาเจาะ"
+  },
+  {
+    "id": 919,
+    "aumphure_id": "9604",
+    "province_id": "96",
+    "name_en": "Amphoe Yi-ngo",
+    "name_th": "อำเภอยี่งอ"
+  },
+  {
+    "id": 920,
+    "aumphure_id": "9605",
+    "province_id": "96",
+    "name_en": "Amphoe Ra-ngae",
+    "name_th": "อำเภอระแงะ"
+  },
+  {
+    "id": 921,
+    "aumphure_id": "9606",
+    "province_id": "96",
+    "name_en": "Amphoe Rueso",
+    "name_th": "อำเภอรือเสาะ"
+  },
+  {
+    "id": 922,
+    "aumphure_id": "9607",
+    "province_id": "96",
+    "name_en": "Amphoe Si Sakhon",
+    "name_th": "อำเภอศรีสาคร"
+  },
+  {
+    "id": 923,
+    "aumphure_id": "9608",
+    "province_id": "96",
+    "name_en": "Amphoe Waeng",
+    "name_th": "อำเภอแว้ง"
+  },
+  {
+    "id": 924,
+    "aumphure_id": "9609",
+    "province_id": "96",
+    "name_en": "Amphoe Sukhirin",
+    "name_th": "อำเภอสุคิริน"
+  },
+  {
+    "id": 925,
+    "aumphure_id": "9610",
+    "province_id": "96",
+    "name_en": "Amphoe Su-ngai Kolok",
+    "name_th": "อำเภอสุไหงโก-ลก"
+  },
+  {
+    "id": 926,
+    "aumphure_id": "9611",
+    "province_id": "96",
+    "name_en": "Amphoe Su-ngai Padi",
+    "name_th": "อำเภอสุไหงปาดี"
+  },
+  {
+    "id": 927,
+    "aumphure_id": "9612",
+    "province_id": "96",
+    "name_en": "Amphoe Chanae",
+    "name_th": "อำเภอจะแนะ"
+  },
+  {
+    "id": 928,
+    "aumphure_id": "9613",
+    "province_id": "96",
+    "name_en": "Amphoe Cho-airong",
+    "name_th": "อำเภอเจาะไอร้อง"
+  }
+]
